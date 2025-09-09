@@ -1,0 +1,26 @@
+market: futures
+segment: usdtm
+contract: perpetual
+intervals: ["1d"]
+
+# Así lo escribes tú → Así se consulta a la API
+symbol_map:
+  "BTCUSDT": "BTCUSDT"
+  "ETHUSDT": "ETHUSDT"
+  "BNBUSDT": "BNBUSDT"
+  "XRPUSDT": "XRPUSDT"
+  "ADAUSDT": "ADAUSDT"
+  "DOGEUSDT": "DOGEUSDT"
+  "SOLUSDT": "SOLUSDT"
+  "TRXUSDT": "TRXUSDT"
+  "DOTUSDT": "DOTUSDT"
+  "LTCUSDT": "LTCUSDT"
+  "1000SHIBUSDT.P": "1000SHIBUSDT"
+  "BCHUSDT": "BCHUSDT"
+  "LINKUSDT": "LINKUSDT"
+  "AVAXUSDT": "AVAXUSDT"
+  "XMRUSDT.P": "XMRUSDT"
+  "XLMUSDT": "XLMUSDT"
+  "UNIUSDT": "UNIUSDT"
+  "ETCUSDT": "ETCUSDT"
+  "HBARUSDT": "HBARUSDT"

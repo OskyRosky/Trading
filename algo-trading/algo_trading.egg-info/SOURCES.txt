@@ -1,0 +1,11 @@
+pyproject.toml
+algo_trading.egg-info/PKG-INFO
+algo_trading.egg-info/SOURCES.txt
+algo_trading.egg-info/dependency_links.txt
+algo_trading.egg-info/top_level.txt
+services/__init__.py
+services/ingestion/__init__.py
+services/ingestion/pipeline.py
+services/processing/__init__.py
+tests/test_ingest_klines_local.py
+tests/test_setup.py

@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "algo-trading"
+version = "0.0.1"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["services*"]

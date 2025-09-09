@@ -1,0 +1,8 @@
+jobs:
+  ingest_daily:
+    schedule_utc: "00:05"
+    streams: ["klines_1d", "funding", "open_interest", "mark_index"]
+retries:
+  max_attempts: 5
+  base_sleep_seconds: 1.0
+  max_sleep_seconds: 60.0

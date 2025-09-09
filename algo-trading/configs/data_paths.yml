@@ -1,0 +1,4 @@
+data_root: "/Users/sultan/Trading/data"
+checkpoints_dir: "/Users/sultan/Trading/data/checkpoints"
+trusted_root: "/Users/sultan/Trading/data/trusted"
+curated_root: "/Users/sultan/Trading/data/curated"

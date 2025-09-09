@@ -1,0 +1,10 @@
+pandas
+pyarrow
+duckdb
+httpx
+tenacity
+pydantic
+python-dateutil
+PyYAML
+pytest
+typer
