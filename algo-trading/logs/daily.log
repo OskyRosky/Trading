@@ -1,0 +1,5235 @@
+{
+  "symbol": "BTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BNBUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XRPUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ADAUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOGEUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "SOLUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "TRXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOTUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "1000SHIBUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BCHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LINKUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "AVAXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XMRUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XLMUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "UNIUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "HBARUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+=== Delta BTCUSDT ===
+=== Delta ETHUSDT ===
+=== Delta BNBUSDT ===
+=== Delta XRPUSDT ===
+=== Delta ADAUSDT ===
+=== Delta DOGEUSDT ===
+=== Delta SOLUSDT ===
+=== Delta TRXUSDT ===
+=== Delta DOTUSDT ===
+=== Delta LTCUSDT ===
+=== Delta 1000SHIBUSDT.P ===
+=== Delta BCHUSDT ===
+=== Delta LINKUSDT ===
+=== Delta AVAXUSDT ===
+=== Delta XMRUSDT.P ===
+=== Delta XLMUSDT ===
+=== Delta UNIUSDT ===
+=== Delta ETCUSDT ===
+=== Delta HBARUSDT ===
+{
+  "symbol": "BTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BNBUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XRPUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ADAUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOGEUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "SOLUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "TRXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOTUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "1000SHIBUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BCHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LINKUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "AVAXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XMRUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XLMUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "UNIUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "HBARUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+=== Delta BTCUSDT ===
+=== Delta ETHUSDT ===
+=== Delta BNBUSDT ===
+=== Delta XRPUSDT ===
+=== Delta ADAUSDT ===
+=== Delta DOGEUSDT ===
+=== Delta SOLUSDT ===
+=== Delta TRXUSDT ===
+=== Delta DOTUSDT ===
+=== Delta LTCUSDT ===
+=== Delta 1000SHIBUSDT.P ===
+=== Delta BCHUSDT ===
+=== Delta LINKUSDT ===
+=== Delta AVAXUSDT ===
+=== Delta XMRUSDT.P ===
+=== Delta XLMUSDT ===
+=== Delta UNIUSDT ===
+=== Delta ETCUSDT ===
+=== Delta HBARUSDT ===
+Reportes CSV escritos:
+- /Users/sultan/Trading/data/checks/reports/daily_qa_summary_2025-09-15.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_gaps_2025-09-15.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_dups_2025-09-15.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_missing_yday_2025-09-15.csv
+[OK] Job diario completado
+{
+  "symbol": "BTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BNBUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XRPUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ADAUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOGEUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "SOLUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "TRXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOTUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "1000SHIBUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BCHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LINKUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "AVAXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XMRUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XLMUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "UNIUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "HBARUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+=== Delta BTCUSDT ===
+=== Delta ETHUSDT ===
+=== Delta BNBUSDT ===
+=== Delta XRPUSDT ===
+=== Delta ADAUSDT ===
+=== Delta DOGEUSDT ===
+=== Delta SOLUSDT ===
+=== Delta TRXUSDT ===
+=== Delta DOTUSDT ===
+=== Delta LTCUSDT ===
+=== Delta 1000SHIBUSDT.P ===
+=== Delta BCHUSDT ===
+=== Delta LINKUSDT ===
+=== Delta AVAXUSDT ===
+=== Delta XMRUSDT.P ===
+=== Delta XLMUSDT ===
+=== Delta UNIUSDT ===
+=== Delta ETCUSDT ===
+=== Delta HBARUSDT ===
+Reportes CSV escritos:
+- /Users/sultan/Trading/data/checks/reports/daily_qa_summary_2025-09-15.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_gaps_2025-09-15.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_dups_2025-09-15.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_missing_yday_2025-09-15.csv
+[OK] Job diario completado
+{
+  "symbol": "BTCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758067199999
+}
+{
+  "symbol": "ETHUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758067199999
+}
+{
+  "symbol": "BNBUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758067199999
+}
+{
+  "symbol": "XRPUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758067199999
+}
+{
+  "symbol": "ADAUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758067199999
+}
+{
+  "symbol": "DOGEUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758067199999
+}
+{
+  "symbol": "SOLUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758067199999
+}
+{
+  "symbol": "TRXUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758067199999
+}
+{
+  "symbol": "DOTUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758067199999
+}
+{
+  "symbol": "LTCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758067199999
+}
+{
+  "symbol": "1000SHIBUSDT.P",
+  "rows_written": 1,
+  "last_close_time": 1758067199999
+}
+{
+  "symbol": "BCHUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758067199999
+}
+{
+  "symbol": "LINKUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758067199999
+}
+{
+  "symbol": "AVAXUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758067199999
+}
+{
+  "symbol": "XMRUSDT.P",
+  "rows_written": 1,
+  "last_close_time": 1758067199999
+}
+{
+  "symbol": "XLMUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758067199999
+}
+{
+  "symbol": "UNIUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758067199999
+}
+{
+  "symbol": "ETCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758067199999
+}
+{
+  "symbol": "HBARUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758067199999
+}
+=== Delta BTCUSDT ===
+=== Delta ETHUSDT ===
+=== Delta BNBUSDT ===
+=== Delta XRPUSDT ===
+=== Delta ADAUSDT ===
+=== Delta DOGEUSDT ===
+=== Delta SOLUSDT ===
+=== Delta TRXUSDT ===
+=== Delta DOTUSDT ===
+=== Delta LTCUSDT ===
+=== Delta 1000SHIBUSDT.P ===
+=== Delta BCHUSDT ===
+=== Delta LINKUSDT ===
+=== Delta AVAXUSDT ===
+=== Delta XMRUSDT.P ===
+=== Delta XLMUSDT ===
+=== Delta UNIUSDT ===
+=== Delta ETCUSDT ===
+=== Delta HBARUSDT ===
+Reportes CSV escritos:
+- /Users/sultan/Trading/data/checks/reports/daily_qa_summary_2025-09-16.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_gaps_2025-09-16.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_dups_2025-09-16.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_missing_yday_2025-09-16.csv
+QA consolidado en qa.duckdb (schema qa) con daily_status
+[OK] features delta: BTCUSDT rows=21
+[OK] features delta: ETHUSDT rows=21
+[OK] features delta: BNBUSDT rows=21
+[OK] features delta: XRPUSDT rows=21
+[OK] features delta: ADAUSDT rows=21
+[OK] features delta: DOGEUSDT rows=21
+[OK] features delta: SOLUSDT rows=21
+[OK] features delta: TRXUSDT rows=21
+[OK] features delta: DOTUSDT rows=21
+[OK] features delta: LTCUSDT rows=21
+[OK] features delta: 1000SHIBUSDT.P rows=21
+[OK] features delta: BCHUSDT rows=21
+[OK] features delta: LINKUSDT rows=21
+[OK] features delta: AVAXUSDT rows=21
+[OK] features delta: XMRUSDT.P rows=21
+[OK] features delta: XLMUSDT rows=21
+[OK] features delta: UNIUSDT rows=21
+[OK] features delta: ETCUSDT rows=21
+[OK] features delta: HBARUSDT rows=21
+[features-delta] BTCUSDT
+[features-delta] ETHUSDT
+[features-delta] BNBUSDT
+[features-delta] XRPUSDT
+[features-delta] ADAUSDT
+[features-delta] DOGEUSDT
+[features-delta] SOLUSDT
+[features-delta] TRXUSDT
+[features-delta] DOTUSDT
+[features-delta] LTCUSDT
+[features-delta] 1000SHIBUSDT.P
+[features-delta] BCHUSDT
+[features-delta] LINKUSDT
+[features-delta] AVAXUSDT
+[features-delta] XMRUSDT.P
+[features-delta] XLMUSDT
+[features-delta] UNIUSDT
+[features-delta] ETCUSDT
+[features-delta] HBARUSDT
+Trusted views created in market.duckdb (schema trusted)
+OK
+{
+  "symbol": "BTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BNBUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XRPUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ADAUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOGEUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "SOLUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "TRXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOTUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "1000SHIBUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BCHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LINKUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "AVAXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XMRUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XLMUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "UNIUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "HBARUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+=== Delta BTCUSDT ===
+=== Delta ETHUSDT ===
+=== Delta BNBUSDT ===
+=== Delta XRPUSDT ===
+=== Delta ADAUSDT ===
+=== Delta DOGEUSDT ===
+=== Delta SOLUSDT ===
+=== Delta TRXUSDT ===
+=== Delta DOTUSDT ===
+=== Delta LTCUSDT ===
+=== Delta 1000SHIBUSDT.P ===
+=== Delta BCHUSDT ===
+=== Delta LINKUSDT ===
+=== Delta AVAXUSDT ===
+=== Delta XMRUSDT.P ===
+=== Delta XLMUSDT ===
+=== Delta UNIUSDT ===
+=== Delta ETCUSDT ===
+=== Delta HBARUSDT ===
+Reportes CSV escritos:
+- /Users/sultan/Trading/data/checks/reports/daily_qa_summary_2025-09-16.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_gaps_2025-09-16.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_dups_2025-09-16.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_missing_yday_2025-09-16.csv
+QA consolidado en qa.duckdb (schema qa) con daily_status
+[OK] features delta: BTCUSDT rows=20
+[OK] features delta: ETHUSDT rows=20
+[OK] features delta: BNBUSDT rows=20
+[OK] features delta: XRPUSDT rows=20
+[OK] features delta: ADAUSDT rows=20
+[OK] features delta: DOGEUSDT rows=20
+[OK] features delta: SOLUSDT rows=20
+[OK] features delta: TRXUSDT rows=20
+[OK] features delta: DOTUSDT rows=20
+[OK] features delta: LTCUSDT rows=20
+[OK] features delta: 1000SHIBUSDT.P rows=20
+[OK] features delta: BCHUSDT rows=20
+[OK] features delta: LINKUSDT rows=20
+[OK] features delta: AVAXUSDT rows=20
+[OK] features delta: XMRUSDT.P rows=20
+[OK] features delta: XLMUSDT rows=20
+[OK] features delta: UNIUSDT rows=20
+[OK] features delta: ETCUSDT rows=20
+[OK] features delta: HBARUSDT rows=20
+[features-delta] BTCUSDT
+[features-delta] ETHUSDT
+[features-delta] BNBUSDT
+[features-delta] XRPUSDT
+[features-delta] ADAUSDT
+[features-delta] DOGEUSDT
+[features-delta] SOLUSDT
+[features-delta] TRXUSDT
+[features-delta] DOTUSDT
+[features-delta] LTCUSDT
+[features-delta] 1000SHIBUSDT.P
+[features-delta] BCHUSDT
+[features-delta] LINKUSDT
+[features-delta] AVAXUSDT
+[features-delta] XMRUSDT.P
+[features-delta] XLMUSDT
+[features-delta] UNIUSDT
+[features-delta] ETCUSDT
+[features-delta] HBARUSDT
+Trusted views created in market.duckdb (schema trusted)
+OK
+{
+  "symbol": "BTCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758153599999
+}
+{
+  "symbol": "ETHUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758153599999
+}
+{
+  "symbol": "BNBUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758153599999
+}
+{
+  "symbol": "XRPUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758153599999
+}
+{
+  "symbol": "ADAUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758153599999
+}
+{
+  "symbol": "DOGEUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758153599999
+}
+{
+  "symbol": "SOLUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758153599999
+}
+{
+  "symbol": "TRXUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758153599999
+}
+{
+  "symbol": "DOTUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758153599999
+}
+{
+  "symbol": "LTCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758153599999
+}
+{
+  "symbol": "1000SHIBUSDT.P",
+  "rows_written": 1,
+  "last_close_time": 1758153599999
+}
+{
+  "symbol": "BCHUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758153599999
+}
+{
+  "symbol": "LINKUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758153599999
+}
+{
+  "symbol": "AVAXUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758153599999
+}
+{
+  "symbol": "XMRUSDT.P",
+  "rows_written": 1,
+  "last_close_time": 1758153599999
+}
+{
+  "symbol": "XLMUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758153599999
+}
+{
+  "symbol": "UNIUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758153599999
+}
+{
+  "symbol": "ETCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758153599999
+}
+{
+  "symbol": "HBARUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758153599999
+}
+=== Delta BTCUSDT ===
+=== Delta ETHUSDT ===
+=== Delta BNBUSDT ===
+=== Delta XRPUSDT ===
+=== Delta ADAUSDT ===
+=== Delta DOGEUSDT ===
+=== Delta SOLUSDT ===
+=== Delta TRXUSDT ===
+=== Delta DOTUSDT ===
+=== Delta LTCUSDT ===
+=== Delta 1000SHIBUSDT.P ===
+=== Delta BCHUSDT ===
+=== Delta LINKUSDT ===
+=== Delta AVAXUSDT ===
+=== Delta XMRUSDT.P ===
+=== Delta XLMUSDT ===
+=== Delta UNIUSDT ===
+=== Delta ETCUSDT ===
+=== Delta HBARUSDT ===
+Reportes CSV escritos:
+- /Users/sultan/Trading/data/checks/reports/daily_qa_summary_2025-09-17.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_gaps_2025-09-17.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_dups_2025-09-17.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_missing_yday_2025-09-17.csv
+QA consolidado en qa.duckdb (schema qa) con daily_status
+[OK] features delta: BTCUSDT rows=21
+[OK] features delta: ETHUSDT rows=21
+[OK] features delta: BNBUSDT rows=21
+[OK] features delta: XRPUSDT rows=21
+[OK] features delta: ADAUSDT rows=21
+[OK] features delta: DOGEUSDT rows=21
+[OK] features delta: SOLUSDT rows=21
+[OK] features delta: TRXUSDT rows=21
+[OK] features delta: DOTUSDT rows=21
+[OK] features delta: LTCUSDT rows=21
+[OK] features delta: 1000SHIBUSDT.P rows=21
+[OK] features delta: BCHUSDT rows=21
+[OK] features delta: LINKUSDT rows=21
+[OK] features delta: AVAXUSDT rows=21
+[OK] features delta: XMRUSDT.P rows=21
+[OK] features delta: XLMUSDT rows=21
+[OK] features delta: UNIUSDT rows=21
+[OK] features delta: ETCUSDT rows=21
+[OK] features delta: HBARUSDT rows=21
+[features-delta] BTCUSDT
+[features-delta] ETHUSDT
+[features-delta] BNBUSDT
+[features-delta] XRPUSDT
+[features-delta] ADAUSDT
+[features-delta] DOGEUSDT
+[features-delta] SOLUSDT
+[features-delta] TRXUSDT
+[features-delta] DOTUSDT
+[features-delta] LTCUSDT
+[features-delta] 1000SHIBUSDT.P
+[features-delta] BCHUSDT
+[features-delta] LINKUSDT
+[features-delta] AVAXUSDT
+[features-delta] XMRUSDT.P
+[features-delta] XLMUSDT
+[features-delta] UNIUSDT
+[features-delta] ETCUSDT
+[features-delta] HBARUSDT
+Trusted views created in market.duckdb (schema trusted)
+OK
+{
+  "symbol": "BTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BNBUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XRPUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ADAUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOGEUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "SOLUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "TRXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOTUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "1000SHIBUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BCHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LINKUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "AVAXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XMRUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XLMUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "UNIUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "HBARUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+=== Delta BTCUSDT ===
+=== Delta ETHUSDT ===
+=== Delta BNBUSDT ===
+=== Delta XRPUSDT ===
+=== Delta ADAUSDT ===
+=== Delta DOGEUSDT ===
+=== Delta SOLUSDT ===
+=== Delta TRXUSDT ===
+=== Delta DOTUSDT ===
+=== Delta LTCUSDT ===
+=== Delta 1000SHIBUSDT.P ===
+=== Delta BCHUSDT ===
+=== Delta LINKUSDT ===
+=== Delta AVAXUSDT ===
+=== Delta XMRUSDT.P ===
+=== Delta XLMUSDT ===
+=== Delta UNIUSDT ===
+=== Delta ETCUSDT ===
+=== Delta HBARUSDT ===
+Reportes CSV escritos:
+- /Users/sultan/Trading/data/checks/reports/daily_qa_summary_2025-09-17.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_gaps_2025-09-17.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_dups_2025-09-17.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_missing_yday_2025-09-17.csv
+QA consolidado en qa.duckdb (schema qa) con daily_status
+[OK] features delta: BTCUSDT rows=20
+[OK] features delta: ETHUSDT rows=20
+[OK] features delta: BNBUSDT rows=20
+[OK] features delta: XRPUSDT rows=20
+[OK] features delta: ADAUSDT rows=20
+[OK] features delta: DOGEUSDT rows=20
+[OK] features delta: SOLUSDT rows=20
+[OK] features delta: TRXUSDT rows=20
+[OK] features delta: DOTUSDT rows=20
+[OK] features delta: LTCUSDT rows=20
+[OK] features delta: 1000SHIBUSDT.P rows=20
+[OK] features delta: BCHUSDT rows=20
+[OK] features delta: LINKUSDT rows=20
+[OK] features delta: AVAXUSDT rows=20
+[OK] features delta: XMRUSDT.P rows=20
+[OK] features delta: XLMUSDT rows=20
+[OK] features delta: UNIUSDT rows=20
+[OK] features delta: ETCUSDT rows=20
+[OK] features delta: HBARUSDT rows=20
+[features-delta] BTCUSDT
+[features-delta] ETHUSDT
+[features-delta] BNBUSDT
+[features-delta] XRPUSDT
+[features-delta] ADAUSDT
+[features-delta] DOGEUSDT
+[features-delta] SOLUSDT
+[features-delta] TRXUSDT
+[features-delta] DOTUSDT
+[features-delta] LTCUSDT
+[features-delta] 1000SHIBUSDT.P
+[features-delta] BCHUSDT
+[features-delta] LINKUSDT
+[features-delta] AVAXUSDT
+[features-delta] XMRUSDT.P
+[features-delta] XLMUSDT
+[features-delta] UNIUSDT
+[features-delta] ETCUSDT
+[features-delta] HBARUSDT
+Trusted views created in market.duckdb (schema trusted)
+OK
+{
+  "symbol": "BTCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758239999999
+}
+{
+  "symbol": "ETHUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758239999999
+}
+{
+  "symbol": "BNBUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758239999999
+}
+{
+  "symbol": "XRPUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758239999999
+}
+{
+  "symbol": "ADAUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758239999999
+}
+{
+  "symbol": "DOGEUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758239999999
+}
+{
+  "symbol": "SOLUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758239999999
+}
+{
+  "symbol": "TRXUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758239999999
+}
+{
+  "symbol": "DOTUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758239999999
+}
+{
+  "symbol": "LTCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758239999999
+}
+{
+  "symbol": "1000SHIBUSDT.P",
+  "rows_written": 1,
+  "last_close_time": 1758239999999
+}
+{
+  "symbol": "BCHUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758239999999
+}
+{
+  "symbol": "LINKUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758239999999
+}
+{
+  "symbol": "AVAXUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758239999999
+}
+{
+  "symbol": "XMRUSDT.P",
+  "rows_written": 1,
+  "last_close_time": 1758239999999
+}
+{
+  "symbol": "XLMUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758239999999
+}
+{
+  "symbol": "UNIUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758239999999
+}
+{
+  "symbol": "ETCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758239999999
+}
+{
+  "symbol": "HBARUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758239999999
+}
+=== Delta BTCUSDT ===
+=== Delta ETHUSDT ===
+=== Delta BNBUSDT ===
+=== Delta XRPUSDT ===
+=== Delta ADAUSDT ===
+=== Delta DOGEUSDT ===
+=== Delta SOLUSDT ===
+=== Delta TRXUSDT ===
+=== Delta DOTUSDT ===
+=== Delta LTCUSDT ===
+=== Delta 1000SHIBUSDT.P ===
+=== Delta BCHUSDT ===
+=== Delta LINKUSDT ===
+=== Delta AVAXUSDT ===
+=== Delta XMRUSDT.P ===
+=== Delta XLMUSDT ===
+=== Delta UNIUSDT ===
+=== Delta ETCUSDT ===
+=== Delta HBARUSDT ===
+Reportes CSV escritos:
+- /Users/sultan/Trading/data/checks/reports/daily_qa_summary_2025-09-18.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_gaps_2025-09-18.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_dups_2025-09-18.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_missing_yday_2025-09-18.csv
+QA consolidado en qa.duckdb (schema qa) con daily_status
+[OK] features delta: BTCUSDT rows=21
+[OK] features delta: ETHUSDT rows=21
+[OK] features delta: BNBUSDT rows=21
+[OK] features delta: XRPUSDT rows=21
+[OK] features delta: ADAUSDT rows=21
+[OK] features delta: DOGEUSDT rows=21
+[OK] features delta: SOLUSDT rows=21
+[OK] features delta: TRXUSDT rows=21
+[OK] features delta: DOTUSDT rows=21
+[OK] features delta: LTCUSDT rows=21
+[OK] features delta: 1000SHIBUSDT.P rows=21
+[OK] features delta: BCHUSDT rows=21
+[OK] features delta: LINKUSDT rows=21
+[OK] features delta: AVAXUSDT rows=21
+[OK] features delta: XMRUSDT.P rows=21
+[OK] features delta: XLMUSDT rows=21
+[OK] features delta: UNIUSDT rows=21
+[OK] features delta: ETCUSDT rows=21
+[OK] features delta: HBARUSDT rows=21
+[features-delta] BTCUSDT
+[features-delta] ETHUSDT
+[features-delta] BNBUSDT
+[features-delta] XRPUSDT
+[features-delta] ADAUSDT
+[features-delta] DOGEUSDT
+[features-delta] SOLUSDT
+[features-delta] TRXUSDT
+[features-delta] DOTUSDT
+[features-delta] LTCUSDT
+[features-delta] 1000SHIBUSDT.P
+[features-delta] BCHUSDT
+[features-delta] LINKUSDT
+[features-delta] AVAXUSDT
+[features-delta] XMRUSDT.P
+[features-delta] XLMUSDT
+[features-delta] UNIUSDT
+[features-delta] ETCUSDT
+[features-delta] HBARUSDT
+Trusted views created in market.duckdb (schema trusted)
+OK
+{
+  "symbol": "BTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BNBUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XRPUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ADAUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOGEUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "SOLUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "TRXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOTUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "1000SHIBUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BCHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LINKUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "AVAXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XMRUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XLMUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "UNIUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "HBARUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+=== Delta BTCUSDT ===
+=== Delta ETHUSDT ===
+=== Delta BNBUSDT ===
+=== Delta XRPUSDT ===
+=== Delta ADAUSDT ===
+=== Delta DOGEUSDT ===
+=== Delta SOLUSDT ===
+=== Delta TRXUSDT ===
+=== Delta DOTUSDT ===
+=== Delta LTCUSDT ===
+=== Delta 1000SHIBUSDT.P ===
+=== Delta BCHUSDT ===
+=== Delta LINKUSDT ===
+=== Delta AVAXUSDT ===
+=== Delta XMRUSDT.P ===
+=== Delta XLMUSDT ===
+=== Delta UNIUSDT ===
+=== Delta ETCUSDT ===
+=== Delta HBARUSDT ===
+Reportes CSV escritos:
+- /Users/sultan/Trading/data/checks/reports/daily_qa_summary_2025-09-18.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_gaps_2025-09-18.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_dups_2025-09-18.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_missing_yday_2025-09-18.csv
+QA consolidado en qa.duckdb (schema qa) con daily_status
+[OK] features delta: BTCUSDT rows=20
+[OK] features delta: ETHUSDT rows=20
+[OK] features delta: BNBUSDT rows=20
+[OK] features delta: XRPUSDT rows=20
+[OK] features delta: ADAUSDT rows=20
+[OK] features delta: DOGEUSDT rows=20
+[OK] features delta: SOLUSDT rows=20
+[OK] features delta: TRXUSDT rows=20
+[OK] features delta: DOTUSDT rows=20
+[OK] features delta: LTCUSDT rows=20
+[OK] features delta: 1000SHIBUSDT.P rows=20
+[OK] features delta: BCHUSDT rows=20
+[OK] features delta: LINKUSDT rows=20
+[OK] features delta: AVAXUSDT rows=20
+[OK] features delta: XMRUSDT.P rows=20
+[OK] features delta: XLMUSDT rows=20
+[OK] features delta: UNIUSDT rows=20
+[OK] features delta: ETCUSDT rows=20
+[OK] features delta: HBARUSDT rows=20
+[features-delta] BTCUSDT
+[features-delta] ETHUSDT
+[features-delta] BNBUSDT
+[features-delta] XRPUSDT
+[features-delta] ADAUSDT
+[features-delta] DOGEUSDT
+[features-delta] SOLUSDT
+[features-delta] TRXUSDT
+[features-delta] DOTUSDT
+[features-delta] LTCUSDT
+[features-delta] 1000SHIBUSDT.P
+[features-delta] BCHUSDT
+[features-delta] LINKUSDT
+[features-delta] AVAXUSDT
+[features-delta] XMRUSDT.P
+[features-delta] XLMUSDT
+[features-delta] UNIUSDT
+[features-delta] ETCUSDT
+[features-delta] HBARUSDT
+Trusted views created in market.duckdb (schema trusted)
+OK
+{
+  "symbol": "BTCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758326399999
+}
+{
+  "symbol": "ETHUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758326399999
+}
+{
+  "symbol": "BNBUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758326399999
+}
+{
+  "symbol": "XRPUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758326399999
+}
+{
+  "symbol": "ADAUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758326399999
+}
+{
+  "symbol": "DOGEUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758326399999
+}
+{
+  "symbol": "SOLUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758326399999
+}
+{
+  "symbol": "TRXUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758326399999
+}
+{
+  "symbol": "DOTUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758326399999
+}
+{
+  "symbol": "LTCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758326399999
+}
+{
+  "symbol": "1000SHIBUSDT.P",
+  "rows_written": 1,
+  "last_close_time": 1758326399999
+}
+{
+  "symbol": "BCHUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758326399999
+}
+{
+  "symbol": "LINKUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758326399999
+}
+{
+  "symbol": "AVAXUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758326399999
+}
+{
+  "symbol": "XMRUSDT.P",
+  "rows_written": 1,
+  "last_close_time": 1758326399999
+}
+{
+  "symbol": "XLMUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758326399999
+}
+{
+  "symbol": "UNIUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758326399999
+}
+{
+  "symbol": "ETCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758326399999
+}
+{
+  "symbol": "HBARUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758326399999
+}
+=== Delta BTCUSDT ===
+=== Delta ETHUSDT ===
+=== Delta BNBUSDT ===
+=== Delta XRPUSDT ===
+=== Delta ADAUSDT ===
+=== Delta DOGEUSDT ===
+=== Delta SOLUSDT ===
+=== Delta TRXUSDT ===
+=== Delta DOTUSDT ===
+=== Delta LTCUSDT ===
+=== Delta 1000SHIBUSDT.P ===
+=== Delta BCHUSDT ===
+=== Delta LINKUSDT ===
+=== Delta AVAXUSDT ===
+=== Delta XMRUSDT.P ===
+=== Delta XLMUSDT ===
+=== Delta UNIUSDT ===
+=== Delta ETCUSDT ===
+=== Delta HBARUSDT ===
+Reportes CSV escritos:
+- /Users/sultan/Trading/data/checks/reports/daily_qa_summary_2025-09-19.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_gaps_2025-09-19.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_dups_2025-09-19.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_missing_yday_2025-09-19.csv
+QA consolidado en qa.duckdb (schema qa) con daily_status
+[OK] features delta: BTCUSDT rows=21
+[OK] features delta: ETHUSDT rows=21
+[OK] features delta: BNBUSDT rows=21
+[OK] features delta: XRPUSDT rows=21
+[OK] features delta: ADAUSDT rows=21
+[OK] features delta: DOGEUSDT rows=21
+[OK] features delta: SOLUSDT rows=21
+[OK] features delta: TRXUSDT rows=21
+[OK] features delta: DOTUSDT rows=21
+[OK] features delta: LTCUSDT rows=21
+[OK] features delta: 1000SHIBUSDT.P rows=21
+[OK] features delta: BCHUSDT rows=21
+[OK] features delta: LINKUSDT rows=21
+[OK] features delta: AVAXUSDT rows=21
+[OK] features delta: XMRUSDT.P rows=21
+[OK] features delta: XLMUSDT rows=21
+[OK] features delta: UNIUSDT rows=21
+[OK] features delta: ETCUSDT rows=21
+[OK] features delta: HBARUSDT rows=21
+[features-delta] BTCUSDT
+[features-delta] ETHUSDT
+[features-delta] BNBUSDT
+[features-delta] XRPUSDT
+[features-delta] ADAUSDT
+[features-delta] DOGEUSDT
+[features-delta] SOLUSDT
+[features-delta] TRXUSDT
+[features-delta] DOTUSDT
+[features-delta] LTCUSDT
+[features-delta] 1000SHIBUSDT.P
+[features-delta] BCHUSDT
+[features-delta] LINKUSDT
+[features-delta] AVAXUSDT
+[features-delta] XMRUSDT.P
+[features-delta] XLMUSDT
+[features-delta] UNIUSDT
+[features-delta] ETCUSDT
+[features-delta] HBARUSDT
+Trusted views created in market.duckdb (schema trusted)
+OK
+{
+  "symbol": "BTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BNBUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XRPUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ADAUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOGEUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "SOLUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "TRXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOTUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "1000SHIBUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BCHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LINKUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "AVAXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XMRUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XLMUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "UNIUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "HBARUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+=== Delta BTCUSDT ===
+=== Delta ETHUSDT ===
+=== Delta BNBUSDT ===
+=== Delta XRPUSDT ===
+=== Delta ADAUSDT ===
+=== Delta DOGEUSDT ===
+=== Delta SOLUSDT ===
+=== Delta TRXUSDT ===
+=== Delta DOTUSDT ===
+=== Delta LTCUSDT ===
+=== Delta 1000SHIBUSDT.P ===
+=== Delta BCHUSDT ===
+=== Delta LINKUSDT ===
+=== Delta AVAXUSDT ===
+=== Delta XMRUSDT.P ===
+=== Delta XLMUSDT ===
+=== Delta UNIUSDT ===
+=== Delta ETCUSDT ===
+=== Delta HBARUSDT ===
+Reportes CSV escritos:
+- /Users/sultan/Trading/data/checks/reports/daily_qa_summary_2025-09-19.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_gaps_2025-09-19.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_dups_2025-09-19.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_missing_yday_2025-09-19.csv
+QA consolidado en qa.duckdb (schema qa) con daily_status
+[OK] features delta: BTCUSDT rows=20
+[OK] features delta: ETHUSDT rows=20
+[OK] features delta: BNBUSDT rows=20
+[OK] features delta: XRPUSDT rows=20
+[OK] features delta: ADAUSDT rows=20
+[OK] features delta: DOGEUSDT rows=20
+[OK] features delta: SOLUSDT rows=20
+[OK] features delta: TRXUSDT rows=20
+[OK] features delta: DOTUSDT rows=20
+[OK] features delta: LTCUSDT rows=20
+[OK] features delta: 1000SHIBUSDT.P rows=20
+[OK] features delta: BCHUSDT rows=20
+[OK] features delta: LINKUSDT rows=20
+[OK] features delta: AVAXUSDT rows=20
+[OK] features delta: XMRUSDT.P rows=20
+[OK] features delta: XLMUSDT rows=20
+[OK] features delta: UNIUSDT rows=20
+[OK] features delta: ETCUSDT rows=20
+[OK] features delta: HBARUSDT rows=20
+[features-delta] BTCUSDT
+[features-delta] ETHUSDT
+[features-delta] BNBUSDT
+[features-delta] XRPUSDT
+[features-delta] ADAUSDT
+[features-delta] DOGEUSDT
+[features-delta] SOLUSDT
+[features-delta] TRXUSDT
+[features-delta] DOTUSDT
+[features-delta] LTCUSDT
+[features-delta] 1000SHIBUSDT.P
+[features-delta] BCHUSDT
+[features-delta] LINKUSDT
+[features-delta] AVAXUSDT
+[features-delta] XMRUSDT.P
+[features-delta] XLMUSDT
+[features-delta] UNIUSDT
+[features-delta] ETCUSDT
+[features-delta] HBARUSDT
+Trusted views created in market.duckdb (schema trusted)
+OK
+{
+  "symbol": "BTCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758412799999
+}
+{
+  "symbol": "ETHUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758412799999
+}
+{
+  "symbol": "BNBUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758412799999
+}
+{
+  "symbol": "XRPUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758412799999
+}
+{
+  "symbol": "ADAUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758412799999
+}
+{
+  "symbol": "DOGEUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758412799999
+}
+{
+  "symbol": "SOLUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758412799999
+}
+{
+  "symbol": "TRXUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758412799999
+}
+{
+  "symbol": "DOTUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758412799999
+}
+{
+  "symbol": "LTCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758412799999
+}
+{
+  "symbol": "1000SHIBUSDT.P",
+  "rows_written": 1,
+  "last_close_time": 1758412799999
+}
+{
+  "symbol": "BCHUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758412799999
+}
+{
+  "symbol": "LINKUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758412799999
+}
+{
+  "symbol": "AVAXUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758412799999
+}
+{
+  "symbol": "XMRUSDT.P",
+  "rows_written": 1,
+  "last_close_time": 1758412799999
+}
+{
+  "symbol": "XLMUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758412799999
+}
+{
+  "symbol": "UNIUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758412799999
+}
+{
+  "symbol": "ETCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758412799999
+}
+{
+  "symbol": "HBARUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758412799999
+}
+=== Delta BTCUSDT ===
+=== Delta ETHUSDT ===
+=== Delta BNBUSDT ===
+=== Delta XRPUSDT ===
+=== Delta ADAUSDT ===
+=== Delta DOGEUSDT ===
+=== Delta SOLUSDT ===
+=== Delta TRXUSDT ===
+=== Delta DOTUSDT ===
+=== Delta LTCUSDT ===
+=== Delta 1000SHIBUSDT.P ===
+=== Delta BCHUSDT ===
+=== Delta LINKUSDT ===
+=== Delta AVAXUSDT ===
+=== Delta XMRUSDT.P ===
+=== Delta XLMUSDT ===
+=== Delta UNIUSDT ===
+=== Delta ETCUSDT ===
+=== Delta HBARUSDT ===
+Reportes CSV escritos:
+- /Users/sultan/Trading/data/checks/reports/daily_qa_summary_2025-09-20.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_gaps_2025-09-20.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_dups_2025-09-20.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_missing_yday_2025-09-20.csv
+QA consolidado en qa.duckdb (schema qa) con daily_status
+[OK] features delta: BTCUSDT rows=21
+[OK] features delta: ETHUSDT rows=21
+[OK] features delta: BNBUSDT rows=21
+[OK] features delta: XRPUSDT rows=21
+[OK] features delta: ADAUSDT rows=21
+[OK] features delta: DOGEUSDT rows=21
+[OK] features delta: SOLUSDT rows=21
+[OK] features delta: TRXUSDT rows=21
+[OK] features delta: DOTUSDT rows=21
+[OK] features delta: LTCUSDT rows=21
+[OK] features delta: 1000SHIBUSDT.P rows=21
+[OK] features delta: BCHUSDT rows=21
+[OK] features delta: LINKUSDT rows=21
+[OK] features delta: AVAXUSDT rows=21
+[OK] features delta: XMRUSDT.P rows=21
+[OK] features delta: XLMUSDT rows=21
+[OK] features delta: UNIUSDT rows=21
+[OK] features delta: ETCUSDT rows=21
+[OK] features delta: HBARUSDT rows=21
+[features-delta] BTCUSDT
+[features-delta] ETHUSDT
+[features-delta] BNBUSDT
+[features-delta] XRPUSDT
+[features-delta] ADAUSDT
+[features-delta] DOGEUSDT
+[features-delta] SOLUSDT
+[features-delta] TRXUSDT
+[features-delta] DOTUSDT
+[features-delta] LTCUSDT
+[features-delta] 1000SHIBUSDT.P
+[features-delta] BCHUSDT
+[features-delta] LINKUSDT
+[features-delta] AVAXUSDT
+[features-delta] XMRUSDT.P
+[features-delta] XLMUSDT
+[features-delta] UNIUSDT
+[features-delta] ETCUSDT
+[features-delta] HBARUSDT
+Trusted views created in market.duckdb (schema trusted)
+OK
+{
+  "symbol": "BTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BNBUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XRPUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ADAUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOGEUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "SOLUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "TRXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOTUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "1000SHIBUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BCHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LINKUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "AVAXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XMRUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XLMUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "UNIUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "HBARUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+=== Delta BTCUSDT ===
+=== Delta ETHUSDT ===
+=== Delta BNBUSDT ===
+=== Delta XRPUSDT ===
+=== Delta ADAUSDT ===
+=== Delta DOGEUSDT ===
+=== Delta SOLUSDT ===
+=== Delta TRXUSDT ===
+=== Delta DOTUSDT ===
+=== Delta LTCUSDT ===
+=== Delta 1000SHIBUSDT.P ===
+=== Delta BCHUSDT ===
+=== Delta LINKUSDT ===
+=== Delta AVAXUSDT ===
+=== Delta XMRUSDT.P ===
+=== Delta XLMUSDT ===
+=== Delta UNIUSDT ===
+=== Delta ETCUSDT ===
+=== Delta HBARUSDT ===
+Reportes CSV escritos:
+- /Users/sultan/Trading/data/checks/reports/daily_qa_summary_2025-09-20.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_gaps_2025-09-20.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_dups_2025-09-20.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_missing_yday_2025-09-20.csv
+QA consolidado en qa.duckdb (schema qa) con daily_status
+[OK] features delta: BTCUSDT rows=20
+[OK] features delta: ETHUSDT rows=20
+[OK] features delta: BNBUSDT rows=20
+[OK] features delta: XRPUSDT rows=20
+[OK] features delta: ADAUSDT rows=20
+[OK] features delta: DOGEUSDT rows=20
+[OK] features delta: SOLUSDT rows=20
+[OK] features delta: TRXUSDT rows=20
+[OK] features delta: DOTUSDT rows=20
+[OK] features delta: LTCUSDT rows=20
+[OK] features delta: 1000SHIBUSDT.P rows=20
+[OK] features delta: BCHUSDT rows=20
+[OK] features delta: LINKUSDT rows=20
+[OK] features delta: AVAXUSDT rows=20
+[OK] features delta: XMRUSDT.P rows=20
+[OK] features delta: XLMUSDT rows=20
+[OK] features delta: UNIUSDT rows=20
+[OK] features delta: ETCUSDT rows=20
+[OK] features delta: HBARUSDT rows=20
+[features-delta] BTCUSDT
+[features-delta] ETHUSDT
+[features-delta] BNBUSDT
+[features-delta] XRPUSDT
+[features-delta] ADAUSDT
+[features-delta] DOGEUSDT
+[features-delta] SOLUSDT
+[features-delta] TRXUSDT
+[features-delta] DOTUSDT
+[features-delta] LTCUSDT
+[features-delta] 1000SHIBUSDT.P
+[features-delta] BCHUSDT
+[features-delta] LINKUSDT
+[features-delta] AVAXUSDT
+[features-delta] XMRUSDT.P
+[features-delta] XLMUSDT
+[features-delta] UNIUSDT
+[features-delta] ETCUSDT
+[features-delta] HBARUSDT
+Trusted views created in market.duckdb (schema trusted)
+OK
+{
+  "symbol": "BTCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758499199999
+}
+{
+  "symbol": "ETHUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758499199999
+}
+{
+  "symbol": "BNBUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758499199999
+}
+{
+  "symbol": "XRPUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758499199999
+}
+{
+  "symbol": "ADAUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758499199999
+}
+{
+  "symbol": "DOGEUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758499199999
+}
+{
+  "symbol": "SOLUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758499199999
+}
+{
+  "symbol": "TRXUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758499199999
+}
+{
+  "symbol": "DOTUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758499199999
+}
+{
+  "symbol": "LTCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758499199999
+}
+{
+  "symbol": "1000SHIBUSDT.P",
+  "rows_written": 1,
+  "last_close_time": 1758499199999
+}
+{
+  "symbol": "BCHUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758499199999
+}
+{
+  "symbol": "LINKUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758499199999
+}
+{
+  "symbol": "AVAXUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758499199999
+}
+{
+  "symbol": "XMRUSDT.P",
+  "rows_written": 1,
+  "last_close_time": 1758499199999
+}
+{
+  "symbol": "XLMUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758499199999
+}
+{
+  "symbol": "UNIUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758499199999
+}
+{
+  "symbol": "ETCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758499199999
+}
+{
+  "symbol": "HBARUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758499199999
+}
+=== Delta BTCUSDT ===
+=== Delta ETHUSDT ===
+=== Delta BNBUSDT ===
+=== Delta XRPUSDT ===
+=== Delta ADAUSDT ===
+=== Delta DOGEUSDT ===
+=== Delta SOLUSDT ===
+=== Delta TRXUSDT ===
+=== Delta DOTUSDT ===
+=== Delta LTCUSDT ===
+=== Delta 1000SHIBUSDT.P ===
+=== Delta BCHUSDT ===
+=== Delta LINKUSDT ===
+=== Delta AVAXUSDT ===
+=== Delta XMRUSDT.P ===
+=== Delta XLMUSDT ===
+=== Delta UNIUSDT ===
+=== Delta ETCUSDT ===
+=== Delta HBARUSDT ===
+Reportes CSV escritos:
+- /Users/sultan/Trading/data/checks/reports/daily_qa_summary_2025-09-21.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_gaps_2025-09-21.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_dups_2025-09-21.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_missing_yday_2025-09-21.csv
+QA consolidado en qa.duckdb (schema qa) con daily_status
+[OK] features delta: BTCUSDT rows=21
+[OK] features delta: ETHUSDT rows=21
+[OK] features delta: BNBUSDT rows=21
+[OK] features delta: XRPUSDT rows=21
+[OK] features delta: ADAUSDT rows=21
+[OK] features delta: DOGEUSDT rows=21
+[OK] features delta: SOLUSDT rows=21
+[OK] features delta: TRXUSDT rows=21
+[OK] features delta: DOTUSDT rows=21
+[OK] features delta: LTCUSDT rows=21
+[OK] features delta: 1000SHIBUSDT.P rows=21
+[OK] features delta: BCHUSDT rows=21
+[OK] features delta: LINKUSDT rows=21
+[OK] features delta: AVAXUSDT rows=21
+[OK] features delta: XMRUSDT.P rows=21
+[OK] features delta: XLMUSDT rows=21
+[OK] features delta: UNIUSDT rows=21
+[OK] features delta: ETCUSDT rows=21
+[OK] features delta: HBARUSDT rows=21
+[features-delta] BTCUSDT
+[features-delta] ETHUSDT
+[features-delta] BNBUSDT
+[features-delta] XRPUSDT
+[features-delta] ADAUSDT
+[features-delta] DOGEUSDT
+[features-delta] SOLUSDT
+[features-delta] TRXUSDT
+[features-delta] DOTUSDT
+[features-delta] LTCUSDT
+[features-delta] 1000SHIBUSDT.P
+[features-delta] BCHUSDT
+[features-delta] LINKUSDT
+[features-delta] AVAXUSDT
+[features-delta] XMRUSDT.P
+[features-delta] XLMUSDT
+[features-delta] UNIUSDT
+[features-delta] ETCUSDT
+[features-delta] HBARUSDT
+Trusted views created in market.duckdb (schema trusted)
+OK
+{
+  "symbol": "BTCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758585599999
+}
+{
+  "symbol": "ETHUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758585599999
+}
+{
+  "symbol": "BNBUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758585599999
+}
+{
+  "symbol": "XRPUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758585599999
+}
+{
+  "symbol": "ADAUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758585599999
+}
+{
+  "symbol": "DOGEUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758585599999
+}
+{
+  "symbol": "SOLUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758585599999
+}
+{
+  "symbol": "TRXUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758585599999
+}
+{
+  "symbol": "DOTUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758585599999
+}
+{
+  "symbol": "LTCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758585599999
+}
+{
+  "symbol": "1000SHIBUSDT.P",
+  "rows_written": 1,
+  "last_close_time": 1758585599999
+}
+{
+  "symbol": "BCHUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758585599999
+}
+{
+  "symbol": "LINKUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758585599999
+}
+{
+  "symbol": "AVAXUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758585599999
+}
+{
+  "symbol": "XMRUSDT.P",
+  "rows_written": 1,
+  "last_close_time": 1758585599999
+}
+{
+  "symbol": "XLMUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758585599999
+}
+{
+  "symbol": "UNIUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758585599999
+}
+{
+  "symbol": "ETCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758585599999
+}
+{
+  "symbol": "HBARUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758585599999
+}
+=== Delta BTCUSDT ===
+=== Delta ETHUSDT ===
+=== Delta BNBUSDT ===
+=== Delta XRPUSDT ===
+=== Delta ADAUSDT ===
+=== Delta DOGEUSDT ===
+=== Delta SOLUSDT ===
+=== Delta TRXUSDT ===
+=== Delta DOTUSDT ===
+=== Delta LTCUSDT ===
+=== Delta 1000SHIBUSDT.P ===
+=== Delta BCHUSDT ===
+=== Delta LINKUSDT ===
+=== Delta AVAXUSDT ===
+=== Delta XMRUSDT.P ===
+=== Delta XLMUSDT ===
+=== Delta UNIUSDT ===
+=== Delta ETCUSDT ===
+=== Delta HBARUSDT ===
+Reportes CSV escritos:
+- /Users/sultan/Trading/data/checks/reports/daily_qa_summary_2025-09-22.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_gaps_2025-09-22.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_dups_2025-09-22.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_missing_yday_2025-09-22.csv
+QA consolidado en qa.duckdb (schema qa) con daily_status
+{
+  "symbol": "BTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BNBUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XRPUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ADAUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOGEUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "SOLUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "TRXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOTUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "1000SHIBUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BCHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LINKUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "AVAXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XMRUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XLMUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "UNIUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "HBARUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+=== Delta BTCUSDT ===
+=== Delta ETHUSDT ===
+=== Delta BNBUSDT ===
+=== Delta XRPUSDT ===
+=== Delta ADAUSDT ===
+=== Delta DOGEUSDT ===
+=== Delta SOLUSDT ===
+=== Delta TRXUSDT ===
+=== Delta DOTUSDT ===
+=== Delta LTCUSDT ===
+=== Delta 1000SHIBUSDT.P ===
+=== Delta BCHUSDT ===
+=== Delta LINKUSDT ===
+=== Delta AVAXUSDT ===
+=== Delta XMRUSDT.P ===
+=== Delta XLMUSDT ===
+=== Delta UNIUSDT ===
+=== Delta ETCUSDT ===
+=== Delta HBARUSDT ===
+Reportes CSV escritos:
+- /Users/sultan/Trading/data/checks/reports/daily_qa_summary_2025-09-22.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_gaps_2025-09-22.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_dups_2025-09-22.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_missing_yday_2025-09-22.csv
+QA consolidado en qa.duckdb (schema qa) con daily_status
+{
+  "symbol": "BTCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758671999999
+}
+{
+  "symbol": "ETHUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758671999999
+}
+{
+  "symbol": "BNBUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758671999999
+}
+{
+  "symbol": "XRPUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758671999999
+}
+{
+  "symbol": "ADAUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758671999999
+}
+{
+  "symbol": "DOGEUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758671999999
+}
+{
+  "symbol": "SOLUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758671999999
+}
+{
+  "symbol": "TRXUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758671999999
+}
+{
+  "symbol": "DOTUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758671999999
+}
+{
+  "symbol": "LTCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758671999999
+}
+{
+  "symbol": "1000SHIBUSDT.P",
+  "rows_written": 1,
+  "last_close_time": 1758671999999
+}
+{
+  "symbol": "BCHUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758671999999
+}
+{
+  "symbol": "LINKUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758671999999
+}
+{
+  "symbol": "AVAXUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758671999999
+}
+{
+  "symbol": "XMRUSDT.P",
+  "rows_written": 1,
+  "last_close_time": 1758671999999
+}
+{
+  "symbol": "XLMUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758671999999
+}
+{
+  "symbol": "UNIUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758671999999
+}
+{
+  "symbol": "ETCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758671999999
+}
+{
+  "symbol": "HBARUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758671999999
+}
+=== Delta BTCUSDT ===
+=== Delta ETHUSDT ===
+=== Delta BNBUSDT ===
+=== Delta XRPUSDT ===
+=== Delta ADAUSDT ===
+=== Delta DOGEUSDT ===
+=== Delta SOLUSDT ===
+=== Delta TRXUSDT ===
+=== Delta DOTUSDT ===
+=== Delta LTCUSDT ===
+=== Delta 1000SHIBUSDT.P ===
+=== Delta BCHUSDT ===
+=== Delta LINKUSDT ===
+=== Delta AVAXUSDT ===
+=== Delta XMRUSDT.P ===
+=== Delta XLMUSDT ===
+=== Delta UNIUSDT ===
+=== Delta ETCUSDT ===
+=== Delta HBARUSDT ===
+Reportes CSV escritos:
+- /Users/sultan/Trading/data/checks/reports/daily_qa_summary_2025-09-23.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_gaps_2025-09-23.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_dups_2025-09-23.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_missing_yday_2025-09-23.csv
+QA consolidado en qa.duckdb (schema qa) con daily_status
+{
+  "symbol": "BTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BNBUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XRPUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ADAUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOGEUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "SOLUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "TRXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOTUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "1000SHIBUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BCHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LINKUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "AVAXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XMRUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XLMUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "UNIUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "HBARUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+=== Delta BTCUSDT ===
+=== Delta ETHUSDT ===
+=== Delta BNBUSDT ===
+=== Delta XRPUSDT ===
+=== Delta ADAUSDT ===
+=== Delta DOGEUSDT ===
+=== Delta SOLUSDT ===
+=== Delta TRXUSDT ===
+=== Delta DOTUSDT ===
+=== Delta LTCUSDT ===
+=== Delta 1000SHIBUSDT.P ===
+=== Delta BCHUSDT ===
+=== Delta LINKUSDT ===
+=== Delta AVAXUSDT ===
+=== Delta XMRUSDT.P ===
+=== Delta XLMUSDT ===
+=== Delta UNIUSDT ===
+=== Delta ETCUSDT ===
+=== Delta HBARUSDT ===
+Reportes CSV escritos:
+- /Users/sultan/Trading/data/checks/reports/daily_qa_summary_2025-09-23.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_gaps_2025-09-23.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_dups_2025-09-23.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_missing_yday_2025-09-23.csv
+QA consolidado en qa.duckdb (schema qa) con daily_status
+{
+  "symbol": "BTCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758758399999
+}
+{
+  "symbol": "ETHUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758758399999
+}
+{
+  "symbol": "BNBUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758758399999
+}
+{
+  "symbol": "XRPUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758758399999
+}
+{
+  "symbol": "ADAUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758758399999
+}
+{
+  "symbol": "DOGEUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758758399999
+}
+{
+  "symbol": "SOLUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758758399999
+}
+{
+  "symbol": "TRXUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758758399999
+}
+{
+  "symbol": "DOTUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758758399999
+}
+{
+  "symbol": "LTCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758758399999
+}
+{
+  "symbol": "1000SHIBUSDT.P",
+  "rows_written": 1,
+  "last_close_time": 1758758399999
+}
+{
+  "symbol": "BCHUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758758399999
+}
+{
+  "symbol": "LINKUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758758399999
+}
+{
+  "symbol": "AVAXUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758758399999
+}
+{
+  "symbol": "XMRUSDT.P",
+  "rows_written": 1,
+  "last_close_time": 1758758399999
+}
+{
+  "symbol": "XLMUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758758399999
+}
+{
+  "symbol": "UNIUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758758399999
+}
+{
+  "symbol": "ETCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758758399999
+}
+{
+  "symbol": "HBARUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758758399999
+}
+=== Delta BTCUSDT ===
+=== Delta ETHUSDT ===
+=== Delta BNBUSDT ===
+=== Delta XRPUSDT ===
+=== Delta ADAUSDT ===
+=== Delta DOGEUSDT ===
+=== Delta SOLUSDT ===
+=== Delta TRXUSDT ===
+=== Delta DOTUSDT ===
+=== Delta LTCUSDT ===
+=== Delta 1000SHIBUSDT.P ===
+=== Delta BCHUSDT ===
+=== Delta LINKUSDT ===
+=== Delta AVAXUSDT ===
+=== Delta XMRUSDT.P ===
+=== Delta XLMUSDT ===
+=== Delta UNIUSDT ===
+=== Delta ETCUSDT ===
+=== Delta HBARUSDT ===
+Reportes CSV escritos:
+- /Users/sultan/Trading/data/checks/reports/daily_qa_summary_2025-09-24.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_gaps_2025-09-24.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_dups_2025-09-24.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_missing_yday_2025-09-24.csv
+{
+  "symbol": "BTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BNBUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XRPUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ADAUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOGEUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "SOLUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "TRXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOTUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "1000SHIBUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BCHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LINKUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "AVAXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XMRUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XLMUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "UNIUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "HBARUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+=== Delta BTCUSDT ===
+=== Delta ETHUSDT ===
+=== Delta BNBUSDT ===
+=== Delta XRPUSDT ===
+=== Delta ADAUSDT ===
+=== Delta DOGEUSDT ===
+=== Delta SOLUSDT ===
+=== Delta TRXUSDT ===
+=== Delta DOTUSDT ===
+=== Delta LTCUSDT ===
+=== Delta 1000SHIBUSDT.P ===
+=== Delta BCHUSDT ===
+=== Delta LINKUSDT ===
+=== Delta AVAXUSDT ===
+=== Delta XMRUSDT.P ===
+=== Delta XLMUSDT ===
+=== Delta UNIUSDT ===
+=== Delta ETCUSDT ===
+=== Delta HBARUSDT ===
+Reportes CSV escritos:
+- /Users/sultan/Trading/data/checks/reports/daily_qa_summary_2025-09-24.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_gaps_2025-09-24.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_dups_2025-09-24.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_missing_yday_2025-09-24.csv
+QA consolidado en qa.duckdb (schema qa) con daily_status
+{
+  "symbol": "BTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BNBUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XRPUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ADAUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOGEUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "SOLUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "TRXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOTUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "1000SHIBUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BCHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LINKUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "AVAXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XMRUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XLMUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "UNIUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "HBARUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+=== Delta BTCUSDT ===
+=== Delta ETHUSDT ===
+=== Delta BNBUSDT ===
+=== Delta XRPUSDT ===
+=== Delta ADAUSDT ===
+=== Delta DOGEUSDT ===
+=== Delta SOLUSDT ===
+=== Delta TRXUSDT ===
+=== Delta DOTUSDT ===
+=== Delta LTCUSDT ===
+=== Delta 1000SHIBUSDT.P ===
+=== Delta BCHUSDT ===
+=== Delta LINKUSDT ===
+=== Delta AVAXUSDT ===
+=== Delta XMRUSDT.P ===
+=== Delta XLMUSDT ===
+=== Delta UNIUSDT ===
+=== Delta ETCUSDT ===
+=== Delta HBARUSDT ===
+Reportes CSV escritos:
+- /Users/sultan/Trading/data/checks/reports/daily_qa_summary_2025-09-24.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_gaps_2025-09-24.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_dups_2025-09-24.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_missing_yday_2025-09-24.csv
+QA consolidado en qa.duckdb (schema qa) con daily_status
+{
+  "symbol": "BTCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758844799999
+}
+{
+  "symbol": "ETHUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758844799999
+}
+{
+  "symbol": "BNBUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758844799999
+}
+{
+  "symbol": "XRPUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758844799999
+}
+{
+  "symbol": "ADAUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758844799999
+}
+{
+  "symbol": "DOGEUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758844799999
+}
+{
+  "symbol": "SOLUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758844799999
+}
+{
+  "symbol": "TRXUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758844799999
+}
+{
+  "symbol": "DOTUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758844799999
+}
+{
+  "symbol": "LTCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758844799999
+}
+{
+  "symbol": "1000SHIBUSDT.P",
+  "rows_written": 1,
+  "last_close_time": 1758844799999
+}
+{
+  "symbol": "BCHUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758844799999
+}
+{
+  "symbol": "LINKUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758844799999
+}
+{
+  "symbol": "AVAXUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758844799999
+}
+{
+  "symbol": "XMRUSDT.P",
+  "rows_written": 1,
+  "last_close_time": 1758844799999
+}
+{
+  "symbol": "XLMUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758844799999
+}
+{
+  "symbol": "UNIUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758844799999
+}
+{
+  "symbol": "ETCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758844799999
+}
+{
+  "symbol": "HBARUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758844799999
+}
+=== Delta BTCUSDT ===
+=== Delta ETHUSDT ===
+=== Delta BNBUSDT ===
+=== Delta XRPUSDT ===
+=== Delta ADAUSDT ===
+=== Delta DOGEUSDT ===
+=== Delta SOLUSDT ===
+=== Delta TRXUSDT ===
+=== Delta DOTUSDT ===
+=== Delta LTCUSDT ===
+=== Delta 1000SHIBUSDT.P ===
+=== Delta BCHUSDT ===
+=== Delta LINKUSDT ===
+=== Delta AVAXUSDT ===
+=== Delta XMRUSDT.P ===
+=== Delta XLMUSDT ===
+=== Delta UNIUSDT ===
+=== Delta ETCUSDT ===
+=== Delta HBARUSDT ===
+Reportes CSV escritos:
+- /Users/sultan/Trading/data/checks/reports/daily_qa_summary_2025-09-25.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_gaps_2025-09-25.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_dups_2025-09-25.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_missing_yday_2025-09-25.csv
+QA consolidado en qa.duckdb (schema qa) con daily_status
+{
+  "symbol": "BTCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758931199999
+}
+{
+  "symbol": "ETHUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758931199999
+}
+{
+  "symbol": "BNBUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758931199999
+}
+{
+  "symbol": "XRPUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758931199999
+}
+{
+  "symbol": "ADAUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758931199999
+}
+{
+  "symbol": "DOGEUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758931199999
+}
+{
+  "symbol": "SOLUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758931199999
+}
+{
+  "symbol": "TRXUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758931199999
+}
+{
+  "symbol": "DOTUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758931199999
+}
+{
+  "symbol": "LTCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758931199999
+}
+{
+  "symbol": "1000SHIBUSDT.P",
+  "rows_written": 1,
+  "last_close_time": 1758931199999
+}
+{
+  "symbol": "BCHUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758931199999
+}
+{
+  "symbol": "LINKUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758931199999
+}
+{
+  "symbol": "AVAXUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758931199999
+}
+{
+  "symbol": "XMRUSDT.P",
+  "rows_written": 1,
+  "last_close_time": 1758931199999
+}
+{
+  "symbol": "XLMUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758931199999
+}
+{
+  "symbol": "UNIUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758931199999
+}
+{
+  "symbol": "ETCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758931199999
+}
+{
+  "symbol": "HBARUSDT",
+  "rows_written": 1,
+  "last_close_time": 1758931199999
+}
+=== Delta BTCUSDT ===
+=== Delta ETHUSDT ===
+=== Delta BNBUSDT ===
+=== Delta XRPUSDT ===
+=== Delta ADAUSDT ===
+=== Delta DOGEUSDT ===
+=== Delta SOLUSDT ===
+=== Delta TRXUSDT ===
+=== Delta DOTUSDT ===
+=== Delta LTCUSDT ===
+=== Delta 1000SHIBUSDT.P ===
+=== Delta BCHUSDT ===
+=== Delta LINKUSDT ===
+=== Delta AVAXUSDT ===
+=== Delta XMRUSDT.P ===
+=== Delta XLMUSDT ===
+=== Delta UNIUSDT ===
+=== Delta ETCUSDT ===
+=== Delta HBARUSDT ===
+Reportes CSV escritos:
+- /Users/sultan/Trading/data/checks/reports/daily_qa_summary_2025-09-26.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_gaps_2025-09-26.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_dups_2025-09-26.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_missing_yday_2025-09-26.csv
+QA consolidado en qa.duckdb (schema qa) con daily_status
+{
+  "symbol": "BTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BNBUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XRPUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ADAUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOGEUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "SOLUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "TRXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOTUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "1000SHIBUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BCHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LINKUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "AVAXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XMRUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XLMUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "UNIUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "HBARUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+=== Delta BTCUSDT ===
+=== Delta ETHUSDT ===
+=== Delta BNBUSDT ===
+=== Delta XRPUSDT ===
+=== Delta ADAUSDT ===
+=== Delta DOGEUSDT ===
+=== Delta SOLUSDT ===
+=== Delta TRXUSDT ===
+=== Delta DOTUSDT ===
+=== Delta LTCUSDT ===
+=== Delta 1000SHIBUSDT.P ===
+=== Delta BCHUSDT ===
+=== Delta LINKUSDT ===
+=== Delta AVAXUSDT ===
+=== Delta XMRUSDT.P ===
+=== Delta XLMUSDT ===
+=== Delta UNIUSDT ===
+=== Delta ETCUSDT ===
+=== Delta HBARUSDT ===
+Reportes CSV escritos:
+- /Users/sultan/Trading/data/checks/reports/daily_qa_summary_2025-09-26.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_gaps_2025-09-26.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_dups_2025-09-26.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_missing_yday_2025-09-26.csv
+QA consolidado en qa.duckdb (schema qa) con daily_status
+{
+  "symbol": "BTCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759017599999
+}
+{
+  "symbol": "ETHUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759017599999
+}
+{
+  "symbol": "BNBUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759017599999
+}
+{
+  "symbol": "XRPUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759017599999
+}
+{
+  "symbol": "ADAUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759017599999
+}
+{
+  "symbol": "DOGEUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759017599999
+}
+{
+  "symbol": "SOLUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759017599999
+}
+{
+  "symbol": "TRXUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759017599999
+}
+{
+  "symbol": "DOTUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759017599999
+}
+{
+  "symbol": "LTCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759017599999
+}
+{
+  "symbol": "1000SHIBUSDT.P",
+  "rows_written": 1,
+  "last_close_time": 1759017599999
+}
+{
+  "symbol": "BCHUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759017599999
+}
+{
+  "symbol": "LINKUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759017599999
+}
+{
+  "symbol": "AVAXUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759017599999
+}
+{
+  "symbol": "XMRUSDT.P",
+  "rows_written": 1,
+  "last_close_time": 1759017599999
+}
+{
+  "symbol": "XLMUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759017599999
+}
+{
+  "symbol": "UNIUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759017599999
+}
+{
+  "symbol": "ETCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759017599999
+}
+{
+  "symbol": "HBARUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759017599999
+}
+=== Delta BTCUSDT ===
+=== Delta ETHUSDT ===
+=== Delta BNBUSDT ===
+=== Delta XRPUSDT ===
+=== Delta ADAUSDT ===
+=== Delta DOGEUSDT ===
+=== Delta SOLUSDT ===
+=== Delta TRXUSDT ===
+=== Delta DOTUSDT ===
+=== Delta LTCUSDT ===
+=== Delta 1000SHIBUSDT.P ===
+=== Delta BCHUSDT ===
+=== Delta LINKUSDT ===
+=== Delta AVAXUSDT ===
+=== Delta XMRUSDT.P ===
+=== Delta XLMUSDT ===
+=== Delta UNIUSDT ===
+=== Delta ETCUSDT ===
+=== Delta HBARUSDT ===
+Reportes CSV escritos:
+- /Users/sultan/Trading/data/checks/reports/daily_qa_summary_2025-09-27.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_gaps_2025-09-27.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_dups_2025-09-27.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_missing_yday_2025-09-27.csv
+QA consolidado en qa.duckdb (schema qa) con daily_status
+{
+  "symbol": "BTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BNBUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XRPUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ADAUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOGEUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "SOLUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "TRXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOTUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "1000SHIBUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BCHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LINKUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "AVAXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XMRUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XLMUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "UNIUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "HBARUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+=== Delta BTCUSDT ===
+=== Delta ETHUSDT ===
+=== Delta BNBUSDT ===
+=== Delta XRPUSDT ===
+=== Delta ADAUSDT ===
+=== Delta DOGEUSDT ===
+=== Delta SOLUSDT ===
+=== Delta TRXUSDT ===
+=== Delta DOTUSDT ===
+=== Delta LTCUSDT ===
+=== Delta 1000SHIBUSDT.P ===
+=== Delta BCHUSDT ===
+=== Delta LINKUSDT ===
+=== Delta AVAXUSDT ===
+=== Delta XMRUSDT.P ===
+=== Delta XLMUSDT ===
+=== Delta UNIUSDT ===
+=== Delta ETCUSDT ===
+=== Delta HBARUSDT ===
+Reportes CSV escritos:
+- /Users/sultan/Trading/data/checks/reports/daily_qa_summary_2025-09-27.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_gaps_2025-09-27.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_dups_2025-09-27.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_missing_yday_2025-09-27.csv
+QA consolidado en qa.duckdb (schema qa) con daily_status
+{
+  "symbol": "BTCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759103999999
+}
+{
+  "symbol": "ETHUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759103999999
+}
+{
+  "symbol": "BNBUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759103999999
+}
+{
+  "symbol": "XRPUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759103999999
+}
+{
+  "symbol": "ADAUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759103999999
+}
+{
+  "symbol": "DOGEUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759103999999
+}
+{
+  "symbol": "SOLUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759103999999
+}
+{
+  "symbol": "TRXUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759103999999
+}
+{
+  "symbol": "DOTUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759103999999
+}
+{
+  "symbol": "LTCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759103999999
+}
+{
+  "symbol": "1000SHIBUSDT.P",
+  "rows_written": 1,
+  "last_close_time": 1759103999999
+}
+{
+  "symbol": "BCHUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759103999999
+}
+{
+  "symbol": "LINKUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759103999999
+}
+{
+  "symbol": "AVAXUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759103999999
+}
+{
+  "symbol": "XMRUSDT.P",
+  "rows_written": 1,
+  "last_close_time": 1759103999999
+}
+{
+  "symbol": "XLMUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759103999999
+}
+{
+  "symbol": "UNIUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759103999999
+}
+{
+  "symbol": "ETCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759103999999
+}
+{
+  "symbol": "HBARUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759103999999
+}
+=== Delta BTCUSDT ===
+=== Delta ETHUSDT ===
+=== Delta BNBUSDT ===
+=== Delta XRPUSDT ===
+=== Delta ADAUSDT ===
+=== Delta DOGEUSDT ===
+=== Delta SOLUSDT ===
+=== Delta TRXUSDT ===
+=== Delta DOTUSDT ===
+=== Delta LTCUSDT ===
+=== Delta 1000SHIBUSDT.P ===
+=== Delta BCHUSDT ===
+=== Delta LINKUSDT ===
+=== Delta AVAXUSDT ===
+=== Delta XMRUSDT.P ===
+=== Delta XLMUSDT ===
+=== Delta UNIUSDT ===
+=== Delta ETCUSDT ===
+=== Delta HBARUSDT ===
+Reportes CSV escritos:
+- /Users/sultan/Trading/data/checks/reports/daily_qa_summary_2025-09-28.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_gaps_2025-09-28.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_dups_2025-09-28.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_missing_yday_2025-09-28.csv
+QA consolidado en qa.duckdb (schema qa) con daily_status
+{
+  "symbol": "BTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BNBUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XRPUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ADAUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOGEUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "SOLUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "TRXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOTUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "1000SHIBUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BCHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LINKUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "AVAXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XMRUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XLMUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "UNIUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "HBARUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+=== Delta BTCUSDT ===
+=== Delta ETHUSDT ===
+=== Delta BNBUSDT ===
+=== Delta XRPUSDT ===
+=== Delta ADAUSDT ===
+=== Delta DOGEUSDT ===
+=== Delta SOLUSDT ===
+=== Delta TRXUSDT ===
+=== Delta DOTUSDT ===
+=== Delta LTCUSDT ===
+=== Delta 1000SHIBUSDT.P ===
+=== Delta BCHUSDT ===
+=== Delta LINKUSDT ===
+=== Delta AVAXUSDT ===
+=== Delta XMRUSDT.P ===
+=== Delta XLMUSDT ===
+=== Delta UNIUSDT ===
+=== Delta ETCUSDT ===
+=== Delta HBARUSDT ===
+Reportes CSV escritos:
+- /Users/sultan/Trading/data/checks/reports/daily_qa_summary_2025-09-28.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_gaps_2025-09-28.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_dups_2025-09-28.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_missing_yday_2025-09-28.csv
+QA consolidado en qa.duckdb (schema qa) con daily_status
+{
+  "symbol": "BTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BNBUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XRPUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ADAUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOGEUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "SOLUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "TRXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOTUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "1000SHIBUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BCHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LINKUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "AVAXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XMRUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XLMUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "UNIUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "HBARUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+=== Delta BTCUSDT ===
+=== Delta ETHUSDT ===
+=== Delta BNBUSDT ===
+=== Delta XRPUSDT ===
+=== Delta ADAUSDT ===
+=== Delta DOGEUSDT ===
+=== Delta SOLUSDT ===
+=== Delta TRXUSDT ===
+=== Delta DOTUSDT ===
+=== Delta LTCUSDT ===
+=== Delta 1000SHIBUSDT.P ===
+=== Delta BCHUSDT ===
+=== Delta LINKUSDT ===
+=== Delta AVAXUSDT ===
+=== Delta XMRUSDT.P ===
+=== Delta XLMUSDT ===
+=== Delta UNIUSDT ===
+=== Delta ETCUSDT ===
+=== Delta HBARUSDT ===
+Reportes CSV escritos:
+- /Users/sultan/Trading/data/checks/reports/daily_qa_summary_2025-09-28.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_gaps_2025-09-28.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_dups_2025-09-28.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_missing_yday_2025-09-28.csv
+QA consolidado en qa.duckdb (schema qa) con daily_status
+{
+  "symbol": "BTCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759190399999
+}
+{
+  "symbol": "ETHUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759190399999
+}
+{
+  "symbol": "BNBUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759190399999
+}
+{
+  "symbol": "XRPUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759190399999
+}
+{
+  "symbol": "ADAUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759190399999
+}
+{
+  "symbol": "DOGEUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759190399999
+}
+{
+  "symbol": "SOLUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759190399999
+}
+{
+  "symbol": "TRXUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759190399999
+}
+{
+  "symbol": "DOTUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759190399999
+}
+{
+  "symbol": "LTCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759190399999
+}
+{
+  "symbol": "1000SHIBUSDT.P",
+  "rows_written": 1,
+  "last_close_time": 1759190399999
+}
+{
+  "symbol": "BCHUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759190399999
+}
+{
+  "symbol": "LINKUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759190399999
+}
+{
+  "symbol": "AVAXUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759190399999
+}
+{
+  "symbol": "XMRUSDT.P",
+  "rows_written": 1,
+  "last_close_time": 1759190399999
+}
+{
+  "symbol": "XLMUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759190399999
+}
+{
+  "symbol": "UNIUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759190399999
+}
+{
+  "symbol": "ETCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759190399999
+}
+{
+  "symbol": "HBARUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759190399999
+}
+=== Delta BTCUSDT ===
+=== Delta ETHUSDT ===
+=== Delta BNBUSDT ===
+=== Delta XRPUSDT ===
+=== Delta ADAUSDT ===
+=== Delta DOGEUSDT ===
+=== Delta SOLUSDT ===
+=== Delta TRXUSDT ===
+=== Delta DOTUSDT ===
+=== Delta LTCUSDT ===
+=== Delta 1000SHIBUSDT.P ===
+=== Delta BCHUSDT ===
+=== Delta LINKUSDT ===
+=== Delta AVAXUSDT ===
+=== Delta XMRUSDT.P ===
+=== Delta XLMUSDT ===
+=== Delta UNIUSDT ===
+=== Delta ETCUSDT ===
+=== Delta HBARUSDT ===
+Reportes CSV escritos:
+- /Users/sultan/Trading/data/checks/reports/daily_qa_summary_2025-09-29.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_gaps_2025-09-29.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_dups_2025-09-29.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_missing_yday_2025-09-29.csv
+QA consolidado en qa.duckdb (schema qa) con daily_status
+{
+  "symbol": "BTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BNBUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XRPUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ADAUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOGEUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "SOLUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "TRXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOTUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "1000SHIBUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BCHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LINKUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "AVAXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XMRUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XLMUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "UNIUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "HBARUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+=== Delta BTCUSDT ===
+=== Delta ETHUSDT ===
+=== Delta BNBUSDT ===
+=== Delta XRPUSDT ===
+=== Delta ADAUSDT ===
+=== Delta DOGEUSDT ===
+=== Delta SOLUSDT ===
+=== Delta TRXUSDT ===
+=== Delta DOTUSDT ===
+=== Delta LTCUSDT ===
+=== Delta 1000SHIBUSDT.P ===
+=== Delta BCHUSDT ===
+=== Delta LINKUSDT ===
+=== Delta AVAXUSDT ===
+=== Delta XMRUSDT.P ===
+=== Delta XLMUSDT ===
+=== Delta UNIUSDT ===
+=== Delta ETCUSDT ===
+=== Delta HBARUSDT ===
+Reportes CSV escritos:
+- /Users/sultan/Trading/data/checks/reports/daily_qa_summary_2025-09-29.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_gaps_2025-09-29.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_dups_2025-09-29.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_missing_yday_2025-09-29.csv
+QA consolidado en qa.duckdb (schema qa) con daily_status
+{
+  "symbol": "BTCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759276799999
+}
+{
+  "symbol": "ETHUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759276799999
+}
+{
+  "symbol": "BNBUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759276799999
+}
+{
+  "symbol": "XRPUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759276799999
+}
+{
+  "symbol": "ADAUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759276799999
+}
+{
+  "symbol": "DOGEUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759276799999
+}
+{
+  "symbol": "SOLUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759276799999
+}
+{
+  "symbol": "TRXUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759276799999
+}
+{
+  "symbol": "DOTUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759276799999
+}
+{
+  "symbol": "LTCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759276799999
+}
+{
+  "symbol": "1000SHIBUSDT.P",
+  "rows_written": 1,
+  "last_close_time": 1759276799999
+}
+{
+  "symbol": "BCHUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759276799999
+}
+{
+  "symbol": "LINKUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759276799999
+}
+{
+  "symbol": "AVAXUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759276799999
+}
+{
+  "symbol": "XMRUSDT.P",
+  "rows_written": 1,
+  "last_close_time": 1759276799999
+}
+{
+  "symbol": "XLMUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759276799999
+}
+{
+  "symbol": "UNIUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759276799999
+}
+{
+  "symbol": "ETCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759276799999
+}
+{
+  "symbol": "HBARUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759276799999
+}
+=== Delta BTCUSDT ===
+=== Delta ETHUSDT ===
+=== Delta BNBUSDT ===
+=== Delta XRPUSDT ===
+=== Delta ADAUSDT ===
+=== Delta DOGEUSDT ===
+=== Delta SOLUSDT ===
+=== Delta TRXUSDT ===
+=== Delta DOTUSDT ===
+=== Delta LTCUSDT ===
+=== Delta 1000SHIBUSDT.P ===
+=== Delta BCHUSDT ===
+=== Delta LINKUSDT ===
+=== Delta AVAXUSDT ===
+=== Delta XMRUSDT.P ===
+=== Delta XLMUSDT ===
+=== Delta UNIUSDT ===
+=== Delta ETCUSDT ===
+=== Delta HBARUSDT ===
+Reportes CSV escritos:
+- /Users/sultan/Trading/data/checks/reports/daily_qa_summary_2025-09-30.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_gaps_2025-09-30.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_dups_2025-09-30.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_missing_yday_2025-09-30.csv
+QA consolidado en qa.duckdb (schema qa) con daily_status
+{
+  "symbol": "BTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BNBUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XRPUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ADAUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOGEUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "SOLUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "TRXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOTUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "1000SHIBUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BCHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LINKUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "AVAXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XMRUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XLMUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "UNIUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "HBARUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+=== Delta BTCUSDT ===
+=== Delta ETHUSDT ===
+=== Delta BNBUSDT ===
+=== Delta XRPUSDT ===
+=== Delta ADAUSDT ===
+=== Delta DOGEUSDT ===
+=== Delta SOLUSDT ===
+=== Delta TRXUSDT ===
+=== Delta DOTUSDT ===
+=== Delta LTCUSDT ===
+=== Delta 1000SHIBUSDT.P ===
+=== Delta BCHUSDT ===
+=== Delta LINKUSDT ===
+=== Delta AVAXUSDT ===
+=== Delta XMRUSDT.P ===
+=== Delta XLMUSDT ===
+=== Delta UNIUSDT ===
+=== Delta ETCUSDT ===
+=== Delta HBARUSDT ===
+Reportes CSV escritos:
+- /Users/sultan/Trading/data/checks/reports/daily_qa_summary_2025-09-30.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_gaps_2025-09-30.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_dups_2025-09-30.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_missing_yday_2025-09-30.csv
+QA consolidado en qa.duckdb (schema qa) con daily_status
+{
+  "symbol": "BTCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759363199999
+}
+{
+  "symbol": "ETHUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759363199999
+}
+{
+  "symbol": "BNBUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759363199999
+}
+{
+  "symbol": "XRPUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759363199999
+}
+{
+  "symbol": "ADAUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759363199999
+}
+{
+  "symbol": "DOGEUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759363199999
+}
+{
+  "symbol": "SOLUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759363199999
+}
+{
+  "symbol": "TRXUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759363199999
+}
+{
+  "symbol": "DOTUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759363199999
+}
+{
+  "symbol": "LTCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759363199999
+}
+{
+  "symbol": "1000SHIBUSDT.P",
+  "rows_written": 1,
+  "last_close_time": 1759363199999
+}
+{
+  "symbol": "BCHUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759363199999
+}
+{
+  "symbol": "LINKUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759363199999
+}
+{
+  "symbol": "AVAXUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759363199999
+}
+{
+  "symbol": "XMRUSDT.P",
+  "rows_written": 1,
+  "last_close_time": 1759363199999
+}
+{
+  "symbol": "XLMUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759363199999
+}
+{
+  "symbol": "UNIUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759363199999
+}
+{
+  "symbol": "ETCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759363199999
+}
+{
+  "symbol": "HBARUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759363199999
+}
+=== Delta BTCUSDT ===
+=== Delta ETHUSDT ===
+=== Delta BNBUSDT ===
+=== Delta XRPUSDT ===
+=== Delta ADAUSDT ===
+=== Delta DOGEUSDT ===
+=== Delta SOLUSDT ===
+=== Delta TRXUSDT ===
+=== Delta DOTUSDT ===
+=== Delta LTCUSDT ===
+=== Delta 1000SHIBUSDT.P ===
+=== Delta BCHUSDT ===
+=== Delta LINKUSDT ===
+=== Delta AVAXUSDT ===
+=== Delta XMRUSDT.P ===
+=== Delta XLMUSDT ===
+=== Delta UNIUSDT ===
+=== Delta ETCUSDT ===
+=== Delta HBARUSDT ===
+Reportes CSV escritos:
+- /Users/sultan/Trading/data/checks/reports/daily_qa_summary_2025-10-01.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_gaps_2025-10-01.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_dups_2025-10-01.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_missing_yday_2025-10-01.csv
+QA consolidado en qa.duckdb (schema qa) con daily_status
+{
+  "symbol": "BTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BNBUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XRPUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ADAUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOGEUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "SOLUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "TRXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOTUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "1000SHIBUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BCHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LINKUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "AVAXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XMRUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XLMUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "UNIUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "HBARUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+=== Delta BTCUSDT ===
+=== Delta ETHUSDT ===
+=== Delta BNBUSDT ===
+=== Delta XRPUSDT ===
+=== Delta ADAUSDT ===
+=== Delta DOGEUSDT ===
+=== Delta SOLUSDT ===
+=== Delta TRXUSDT ===
+=== Delta DOTUSDT ===
+=== Delta LTCUSDT ===
+=== Delta 1000SHIBUSDT.P ===
+=== Delta BCHUSDT ===
+=== Delta LINKUSDT ===
+=== Delta AVAXUSDT ===
+=== Delta XMRUSDT.P ===
+=== Delta XLMUSDT ===
+=== Delta UNIUSDT ===
+=== Delta ETCUSDT ===
+=== Delta HBARUSDT ===
+Reportes CSV escritos:
+- /Users/sultan/Trading/data/checks/reports/daily_qa_summary_2025-10-01.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_gaps_2025-10-01.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_dups_2025-10-01.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_missing_yday_2025-10-01.csv
+{
+  "symbol": "BTCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759449599999
+}
+{
+  "symbol": "ETHUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759449599999
+}
+{
+  "symbol": "BNBUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759449599999
+}
+{
+  "symbol": "XRPUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759449599999
+}
+{
+  "symbol": "ADAUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759449599999
+}
+{
+  "symbol": "DOGEUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759449599999
+}
+{
+  "symbol": "SOLUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759449599999
+}
+{
+  "symbol": "TRXUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759449599999
+}
+{
+  "symbol": "DOTUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759449599999
+}
+{
+  "symbol": "LTCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759449599999
+}
+{
+  "symbol": "1000SHIBUSDT.P",
+  "rows_written": 1,
+  "last_close_time": 1759449599999
+}
+{
+  "symbol": "BCHUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759449599999
+}
+{
+  "symbol": "LINKUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759449599999
+}
+{
+  "symbol": "AVAXUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759449599999
+}
+{
+  "symbol": "XMRUSDT.P",
+  "rows_written": 1,
+  "last_close_time": 1759449599999
+}
+{
+  "symbol": "XLMUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759449599999
+}
+{
+  "symbol": "UNIUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759449599999
+}
+{
+  "symbol": "ETCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759449599999
+}
+{
+  "symbol": "HBARUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759449599999
+}
+=== Delta BTCUSDT ===
+=== Delta ETHUSDT ===
+=== Delta BNBUSDT ===
+=== Delta XRPUSDT ===
+=== Delta ADAUSDT ===
+=== Delta DOGEUSDT ===
+=== Delta SOLUSDT ===
+=== Delta TRXUSDT ===
+=== Delta DOTUSDT ===
+=== Delta LTCUSDT ===
+=== Delta 1000SHIBUSDT.P ===
+=== Delta BCHUSDT ===
+=== Delta LINKUSDT ===
+=== Delta AVAXUSDT ===
+=== Delta XMRUSDT.P ===
+=== Delta XLMUSDT ===
+=== Delta UNIUSDT ===
+=== Delta ETCUSDT ===
+=== Delta HBARUSDT ===
+Reportes CSV escritos:
+- /Users/sultan/Trading/data/checks/reports/daily_qa_summary_2025-10-02.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_gaps_2025-10-02.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_dups_2025-10-02.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_missing_yday_2025-10-02.csv
+QA consolidado en qa.duckdb (schema qa) con daily_status
+Views refreshed.
+{
+  "symbol": "BTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BNBUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XRPUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ADAUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOGEUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "SOLUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "TRXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOTUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "1000SHIBUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BCHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LINKUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "AVAXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XMRUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XLMUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "UNIUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "HBARUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+=== Delta BTCUSDT ===
+=== Delta ETHUSDT ===
+=== Delta BNBUSDT ===
+=== Delta XRPUSDT ===
+=== Delta ADAUSDT ===
+=== Delta DOGEUSDT ===
+=== Delta SOLUSDT ===
+=== Delta TRXUSDT ===
+=== Delta DOTUSDT ===
+=== Delta LTCUSDT ===
+=== Delta 1000SHIBUSDT.P ===
+=== Delta BCHUSDT ===
+=== Delta LINKUSDT ===
+=== Delta AVAXUSDT ===
+=== Delta XMRUSDT.P ===
+=== Delta XLMUSDT ===
+=== Delta UNIUSDT ===
+=== Delta ETCUSDT ===
+=== Delta HBARUSDT ===
+Reportes CSV escritos:
+- /Users/sultan/Trading/data/checks/reports/daily_qa_summary_2025-10-02.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_gaps_2025-10-02.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_dups_2025-10-02.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_missing_yday_2025-10-02.csv
+QA consolidado en qa.duckdb (schema qa) con daily_status
+Views refreshed.
+{
+  "symbol": "BTCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759535999999
+}
+{
+  "symbol": "ETHUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759535999999
+}
+{
+  "symbol": "BNBUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759535999999
+}
+{
+  "symbol": "XRPUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759535999999
+}
+{
+  "symbol": "ADAUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759535999999
+}
+{
+  "symbol": "DOGEUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759535999999
+}
+{
+  "symbol": "SOLUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759535999999
+}
+{
+  "symbol": "TRXUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759535999999
+}
+{
+  "symbol": "DOTUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759535999999
+}
+{
+  "symbol": "LTCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759535999999
+}
+{
+  "symbol": "1000SHIBUSDT.P",
+  "rows_written": 1,
+  "last_close_time": 1759535999999
+}
+{
+  "symbol": "BCHUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759535999999
+}
+{
+  "symbol": "LINKUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759535999999
+}
+{
+  "symbol": "AVAXUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759535999999
+}
+{
+  "symbol": "XMRUSDT.P",
+  "rows_written": 1,
+  "last_close_time": 1759535999999
+}
+{
+  "symbol": "XLMUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759535999999
+}
+{
+  "symbol": "UNIUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759535999999
+}
+{
+  "symbol": "ETCUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759535999999
+}
+{
+  "symbol": "HBARUSDT",
+  "rows_written": 1,
+  "last_close_time": 1759535999999
+}
+=== Delta BTCUSDT ===
+=== Delta ETHUSDT ===
+=== Delta BNBUSDT ===
+=== Delta XRPUSDT ===
+=== Delta ADAUSDT ===
+=== Delta DOGEUSDT ===
+=== Delta SOLUSDT ===
+=== Delta TRXUSDT ===
+=== Delta DOTUSDT ===
+=== Delta LTCUSDT ===
+=== Delta 1000SHIBUSDT.P ===
+=== Delta BCHUSDT ===
+=== Delta LINKUSDT ===
+=== Delta AVAXUSDT ===
+=== Delta XMRUSDT.P ===
+=== Delta XLMUSDT ===
+=== Delta UNIUSDT ===
+=== Delta ETCUSDT ===
+=== Delta HBARUSDT ===
+Reportes CSV escritos:
+- /Users/sultan/Trading/data/checks/reports/daily_qa_summary_2025-10-03.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_gaps_2025-10-03.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_dups_2025-10-03.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_missing_yday_2025-10-03.csv
+QA consolidado en qa.duckdb (schema qa) con daily_status
+Views refreshed.
+{
+  "symbol": "BTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BNBUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XRPUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ADAUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOGEUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "SOLUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "TRXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOTUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "1000SHIBUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BCHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LINKUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "AVAXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XMRUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XLMUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "UNIUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "HBARUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+=== Delta BTCUSDT ===
+=== Delta ETHUSDT ===
+=== Delta BNBUSDT ===
+=== Delta XRPUSDT ===
+=== Delta ADAUSDT ===
+=== Delta DOGEUSDT ===
+=== Delta SOLUSDT ===
+=== Delta TRXUSDT ===
+=== Delta DOTUSDT ===
+=== Delta LTCUSDT ===
+=== Delta 1000SHIBUSDT.P ===
+=== Delta BCHUSDT ===
+=== Delta LINKUSDT ===
+=== Delta AVAXUSDT ===
+=== Delta XMRUSDT.P ===
+=== Delta XLMUSDT ===
+=== Delta UNIUSDT ===
+=== Delta ETCUSDT ===
+=== Delta HBARUSDT ===
+Reportes CSV escritos:
+- /Users/sultan/Trading/data/checks/reports/daily_qa_summary_2025-10-03.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_gaps_2025-10-03.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_dups_2025-10-03.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_missing_yday_2025-10-03.csv
+QA consolidado en qa.duckdb (schema qa) con daily_status
+Views refreshed.
+{
+  "symbol": "BTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BNBUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XRPUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ADAUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOGEUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "SOLUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "TRXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOTUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "1000SHIBUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BCHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LINKUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "AVAXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XMRUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XLMUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "UNIUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "HBARUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+=== Delta BTCUSDT ===
+=== Delta ETHUSDT ===
+=== Delta BNBUSDT ===
+=== Delta XRPUSDT ===
+=== Delta ADAUSDT ===
+=== Delta DOGEUSDT ===
+=== Delta SOLUSDT ===
+=== Delta TRXUSDT ===
+=== Delta DOTUSDT ===
+=== Delta LTCUSDT ===
+=== Delta 1000SHIBUSDT.P ===
+=== Delta BCHUSDT ===
+=== Delta LINKUSDT ===
+=== Delta AVAXUSDT ===
+=== Delta XMRUSDT.P ===
+=== Delta XLMUSDT ===
+=== Delta UNIUSDT ===
+=== Delta ETCUSDT ===
+=== Delta HBARUSDT ===
+Reportes CSV escritos:
+- /Users/sultan/Trading/data/checks/reports/daily_qa_summary_2025-10-03.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_gaps_2025-10-03.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_dups_2025-10-03.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_missing_yday_2025-10-03.csv

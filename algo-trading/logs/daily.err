@@ -1,0 +1,100 @@
+Traceback (most recent call last):
+  File "/Users/sultan/Trading/algo-trading/tools/qa_report.py", line 104, in <module>
+    main()
+  File "/Users/sultan/Trading/algo-trading/tools/qa_report.py", line 41, in main
+    gaps = con.execute("""
+           ^^^^^^^^^^^^^^^
+duckdb.duckdb.BinderException: Binder Error: No function matches the given name and argument types '+(DATE, STRUCT("range" BIGINT))'. You might need to add explicit type casts.
+	Candidate functions:
+	+(TINYINT) -> TINYINT
+	+(TINYINT, TINYINT) -> TINYINT
+	+(SMALLINT) -> SMALLINT
+	+(SMALLINT, SMALLINT) -> SMALLINT
+	+(INTEGER) -> INTEGER
+	+(INTEGER, INTEGER) -> INTEGER
+	+(BIGINT) -> BIGINT
+	+(BIGINT, BIGINT) -> BIGINT
+	+(HUGEINT) -> HUGEINT
+	+(HUGEINT, HUGEINT) -> HUGEINT
+	+(FLOAT) -> FLOAT
+	+(FLOAT, FLOAT) -> FLOAT
+	+(DOUBLE) -> DOUBLE
+	+(DOUBLE, DOUBLE) -> DOUBLE
+	+(DECIMAL) -> DECIMAL
+	+(DECIMAL, DECIMAL) -> DECIMAL
+	+(UTINYINT) -> UTINYINT
+	+(UTINYINT, UTINYINT) -> UTINYINT
+	+(USMALLINT) -> USMALLINT
+	+(USMALLINT, USMALLINT) -> USMALLINT
+	+(UINTEGER) -> UINTEGER
+	+(UINTEGER, UINTEGER) -> UINTEGER
+	+(UBIGINT) -> UBIGINT
+	+(UBIGINT, UBIGINT) -> UBIGINT
+	+(UHUGEINT) -> UHUGEINT
+	+(UHUGEINT, UHUGEINT) -> UHUGEINT
+	+(DATE, INTEGER) -> DATE
+	+(INTEGER, DATE) -> DATE
+	+(INTERVAL, INTERVAL) -> INTERVAL
+	+(DATE, INTERVAL) -> TIMESTAMP
+	+(INTERVAL, DATE) -> TIMESTAMP
+	+(TIME, INTERVAL) -> TIME
+	+(INTERVAL, TIME) -> TIME
+	+(TIMESTAMP, INTERVAL) -> TIMESTAMP
+	+(INTERVAL, TIMESTAMP) -> TIMESTAMP
+	+(TIME WITH TIME ZONE, INTERVAL) -> TIME WITH TIME ZONE
+	+(INTERVAL, TIME WITH TIME ZONE) -> TIME WITH TIME ZONE
+	+(TIME, DATE) -> TIMESTAMP
+	+(DATE, TIME) -> TIMESTAMP
+	+(TIME WITH TIME ZONE, DATE) -> TIMESTAMP WITH TIME ZONE
+	+(DATE, TIME WITH TIME ZONE) -> TIMESTAMP WITH TIME ZONE
+	+([ANY[]...]) -> ANY[]
+	+(TIMESTAMP WITH TIME ZONE, INTERVAL) -> TIMESTAMP WITH TIME ZONE
+	+(INTERVAL, TIMESTAMP WITH TIME ZONE) -> TIMESTAMP WITH TIME ZONE
+
+
+LINE 10:           (s.min_d + i)::DATE AS d
+                            ^
+/Users/sultan/Trading/algo-trading/.venv/bin/python: No module named services.features.run_all
+/Users/sultan/Trading/algo-trading/.venv/bin/python: No module named services.features.run_all
+/Users/sultan/Trading/algo-trading/.venv/bin/python: No module named services.features.run_all
+/Users/sultan/Trading/algo-trading/.venv/bin/python: No module named services.features.run_all
+Traceback (most recent call last):
+  File "/Users/sultan/Trading/algo-trading/tools/qa_consolidate.py", line 146, in <module>
+    main()
+  File "/Users/sultan/Trading/algo-trading/tools/qa_consolidate.py", line 20, in main
+    con = duckdb.connect(DB)
+          ^^^^^^^^^^^^^^^^^^
+duckdb.duckdb.IOException: IO Error: Could not set lock on file "/Users/sultan/Trading/data/duck/qa.duckdb": Conflicting lock is held in /Applications/DBeaver.app/Contents/MacOS/dbeaver (PID 1003) by user sultan. See also https://duckdb.org/docs/stable/connect/concurrency
+/Users/sultan/Trading/algo-trading/.venv/bin/python: No module named services.features.run_all
+/Users/sultan/Trading/algo-trading/.venv/bin/python: No module named services.features.run_all
+/Users/sultan/Trading/algo-trading/.venv/bin/python: No module named services.features.run_all
+/Users/sultan/Trading/algo-trading/.venv/bin/python: No module named services.features.run_all
+/Users/sultan/Trading/algo-trading/.venv/bin/python: No module named services.features.run_all
+/Users/sultan/Trading/algo-trading/.venv/bin/python: No module named services.features.run_all
+/Users/sultan/Trading/algo-trading/.venv/bin/python: No module named services.features.run_all
+/Users/sultan/Trading/algo-trading/.venv/bin/python: No module named services.features.run_all
+/Users/sultan/Trading/algo-trading/.venv/bin/python: No module named services.features.run_all
+/Users/sultan/Trading/algo-trading/.venv/bin/python: No module named services.features.run_all
+/Users/sultan/Trading/algo-trading/.venv/bin/python: No module named services.features.run_all
+/Users/sultan/Trading/algo-trading/.venv/bin/python: No module named services.features.run_all
+/Users/sultan/Trading/algo-trading/.venv/bin/python: No module named services.features.run_all
+/Users/sultan/Trading/algo-trading/.venv/bin/python: No module named services.features.run_all
+/Users/sultan/Trading/algo-trading/.venv/bin/python: No module named services.features.run_all
+Traceback (most recent call last):
+  File "/Users/sultan/Trading/algo-trading/tools/qa_consolidate.py", line 146, in <module>
+    main()
+  File "/Users/sultan/Trading/algo-trading/tools/qa_consolidate.py", line 20, in main
+    con = duckdb.connect(DB)
+          ^^^^^^^^^^^^^^^^^^
+duckdb.duckdb.IOException: IO Error: Could not set lock on file "/Users/sultan/Trading/data/duck/qa.duckdb": Conflicting lock is held in /Applications/DBeaver.app/Contents/MacOS/dbeaver (PID 6601) by user sultan. See also https://duckdb.org/docs/stable/connect/concurrency
+python: can't open file '/Users/sultan/Trading/algo-trading/tools/features/run_features_all.py': [Errno 2] No such file or directory
+python: can't open file '/Users/sultan/Trading/algo-trading/tools/features/run_features_all.py': [Errno 2] No such file or directory
+python: can't open file '/Users/sultan/Trading/algo-trading/tools/features/run_features_all.py': [Errno 2] No such file or directory
+python: can't open file '/Users/sultan/Trading/algo-trading/tools/features/run_features_all.py': [Errno 2] No such file or directory
+Traceback (most recent call last):
+  File "/Users/sultan/Trading/algo-trading/tools/qa_consolidate.py", line 146, in <module>
+    main()
+  File "/Users/sultan/Trading/algo-trading/tools/qa_consolidate.py", line 20, in main
+    con = duckdb.connect(DB)
+          ^^^^^^^^^^^^^^^^^^
+duckdb.duckdb.IOException: IO Error: Could not set lock on file "/Users/sultan/Trading/data/duck/qa.duckdb": Conflicting lock is held in /Applications/DBeaver.app/Contents/MacOS/dbeaver (PID 10585) by user sultan. See also https://duckdb.org/docs/stable/connect/concurrency

@@ -1,10 +1,22 @@
+# Core data wrangling
 pandas
-pyarrow
-duckdb
+
+# API & retries
 httpx
 tenacity
-pydantic
-python-dateutil
-PyYAML
-pytest
+
+# CLI app
 typer
+
+# File formats & DB
+pyyaml
+duckdb
+pyarrow   # soporte parquet en pandas y duckdb
+
+# Testing
+pytest
+
+# Extra útil (no obligatorio)
+rich   # para imprimir logs bonitos
+tqdm   # para barras de progreso
+matplotlib>=3.8.0
