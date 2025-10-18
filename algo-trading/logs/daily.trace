@@ -1,0 +1,343 @@
++ [run_daily_job.sh:1] '≈#!/usr/bin/env' bash
+/Users/sultan/Trading/algo-trading/tools/run_daily_job.sh: line 1: ≈#!/usr/bin/env: No such file or directory
++ [run_daily_job.sh:2] set -euo pipefail
++ [run_daily_job.sh:4] cd /Users/sultan/Trading/algo-trading
++ [run_daily_job.sh:5] source .venv/bin/activate
+++ [activate:36] deactivate nondestructive
+++ [activate:6] '[' -n '' ']'
+++ [activate:11] '[' -n '' ']'
+++ [activate:19] hash -r
+++ [activate:21] '[' -n '' ']'
+++ [activate:27] unset VIRTUAL_ENV
+++ [activate:28] unset VIRTUAL_ENV_PROMPT
+++ [activate:29] '[' '!' nondestructive = nondestructive ']'
+++ [activate:39] '[' darwin24 = cygwin ']'
+++ [activate:39] '[' darwin24 = msys ']'
+++ [activate:45] export VIRTUAL_ENV=/Users/sultan/Trading/algo-trading/.venv
+++ [activate:45] VIRTUAL_ENV=/Users/sultan/Trading/algo-trading/.venv
+++ [activate:48] _OLD_VIRTUAL_PATH='/Users/sultan/.pyenv/shims:/Users/sultan/.pyenv/bin:/Users/sultan/.pyenv/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Applications/Little Snitch.app/Contents/Components'
+++ [activate:49] PATH='/Users/sultan/Trading/algo-trading/.venv/bin:/Users/sultan/.pyenv/shims:/Users/sultan/.pyenv/bin:/Users/sultan/.pyenv/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Applications/Little Snitch.app/Contents/Components'
+++ [activate:50] export PATH
+++ [activate:55] '[' -n '' ']'
+++ [activate:60] '[' -z '' ']'
+++ [activate:61] _OLD_VIRTUAL_PS1=
+++ [activate:62] PS1='(.venv) '
+++ [activate:63] export PS1
+++ [activate:64] VIRTUAL_ENV_PROMPT='(.venv) '
+++ [activate:65] export VIRTUAL_ENV_PROMPT
+++ [activate:70] hash -r
++ [run_daily_job.sh:7] python tools/run_daily_delta.py
+{
+  "symbol": "BTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BNBUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XRPUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ADAUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOGEUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "SOLUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "TRXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "DOTUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LTCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "1000SHIBUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "BCHUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "LINKUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "AVAXUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XMRUSDT.P",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "XLMUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "UNIUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "ETCUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+{
+  "symbol": "HBARUSDT",
+  "rows_written": 0,
+  "last_close_time": null
+}
+=== Delta BTCUSDT ===
+=== Delta ETHUSDT ===
+=== Delta BNBUSDT ===
+=== Delta XRPUSDT ===
+=== Delta ADAUSDT ===
+=== Delta DOGEUSDT ===
+=== Delta SOLUSDT ===
+=== Delta TRXUSDT ===
+=== Delta DOTUSDT ===
+=== Delta LTCUSDT ===
+=== Delta 1000SHIBUSDT.P ===
+=== Delta BCHUSDT ===
+=== Delta LINKUSDT ===
+=== Delta AVAXUSDT ===
+=== Delta XMRUSDT.P ===
+=== Delta XLMUSDT ===
+=== Delta UNIUSDT ===
+=== Delta ETCUSDT ===
+=== Delta HBARUSDT ===
++ [run_daily_job.sh:8] python tools/qa_report.py
+Reportes CSV escritos:
+- /Users/sultan/Trading/data/checks/reports/daily_qa_summary_2025-10-18.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_gaps_2025-10-18.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_dups_2025-10-18.csv
+- /Users/sultan/Trading/data/checks/reports/daily_qa_missing_yday_2025-10-18.csv
++ [run_daily_job.sh:9] python tools/qa_consolidate.py
+QA consolidado en qa.duckdb (schema qa) con daily_status
++ [run_daily_job.sh:10] python tools/run_features_all.py
+[OK] features full: BTCUSDT rows=2233
+[OK] features full: ETHUSDT rows=2153
+[OK] features full: BNBUSDT rows=2078
+[OK] features full: XRPUSDT rows=2113
+[OK] features full: ADAUSDT rows=2088
+[OK] features full: DOGEUSDT rows=1927
+[OK] features full: SOLUSDT rows=1861
+[OK] features full: TRXUSDT rows=2104
+[OK] features full: DOTUSDT rows=1884
+[OK] features full: LTCUSDT rows=2110
+[OK] features full: 1000SHIBUSDT.P rows=1623
+[OK] features full: BCHUSDT rows=2131
+[OK] features full: LINKUSDT rows=2102
+[OK] features full: AVAXUSDT rows=1852
+[OK] features full: XMRUSDT.P rows=2085
+[OK] features full: XLMUSDT rows=2099
+[OK] features full: UNIUSDT rows=1857
+[OK] features full: ETCUSDT rows=2103
+[OK] features full: HBARUSDT rows=1677
+[features] BTCUSDT
+[features] ETHUSDT
+[features] BNBUSDT
+[features] XRPUSDT
+[features] ADAUSDT
+[features] DOGEUSDT
+[features] SOLUSDT
+[features] TRXUSDT
+[features] DOTUSDT
+[features] LTCUSDT
+[features] 1000SHIBUSDT.P
+[features] BCHUSDT
+[features] LINKUSDT
+[features] AVAXUSDT
+[features] XMRUSDT.P
+[features] XLMUSDT
+[features] UNIUSDT
+[features] ETCUSDT
+[features] HBARUSDT
++ [run_daily_job.sh:11] python tools/ml/train_baseline.py
+{
+  "trained": "BTCUSDT",
+  "metrics_csv": "/Users/sultan/Trading/data/checks/reports/ml_metrics_BTCUSDT.csv",
+  "model": "/Users/sultan/Trading/data/ml/models/lr_BTCUSDT.joblib",
+  "preds_csv": "/Users/sultan/Trading/data/ml/preds/BTCUSDT_preds.csv"
+}
+{
+  "trained": "ETHUSDT",
+  "metrics_csv": "/Users/sultan/Trading/data/checks/reports/ml_metrics_ETHUSDT.csv",
+  "model": "/Users/sultan/Trading/data/ml/models/lr_ETHUSDT.joblib",
+  "preds_csv": "/Users/sultan/Trading/data/ml/preds/ETHUSDT_preds.csv"
+}
+{
+  "trained": "BNBUSDT",
+  "metrics_csv": "/Users/sultan/Trading/data/checks/reports/ml_metrics_BNBUSDT.csv",
+  "model": "/Users/sultan/Trading/data/ml/models/lr_BNBUSDT.joblib",
+  "preds_csv": "/Users/sultan/Trading/data/ml/preds/BNBUSDT_preds.csv"
+}
+{
+  "trained": "XRPUSDT",
+  "metrics_csv": "/Users/sultan/Trading/data/checks/reports/ml_metrics_XRPUSDT.csv",
+  "model": "/Users/sultan/Trading/data/ml/models/lr_XRPUSDT.joblib",
+  "preds_csv": "/Users/sultan/Trading/data/ml/preds/XRPUSDT_preds.csv"
+}
+{
+  "trained": "ADAUSDT",
+  "metrics_csv": "/Users/sultan/Trading/data/checks/reports/ml_metrics_ADAUSDT.csv",
+  "model": "/Users/sultan/Trading/data/ml/models/lr_ADAUSDT.joblib",
+  "preds_csv": "/Users/sultan/Trading/data/ml/preds/ADAUSDT_preds.csv"
+}
+{
+  "trained": "DOGEUSDT",
+  "metrics_csv": "/Users/sultan/Trading/data/checks/reports/ml_metrics_DOGEUSDT.csv",
+  "model": "/Users/sultan/Trading/data/ml/models/lr_DOGEUSDT.joblib",
+  "preds_csv": "/Users/sultan/Trading/data/ml/preds/DOGEUSDT_preds.csv"
+}
+{
+  "trained": "SOLUSDT",
+  "metrics_csv": "/Users/sultan/Trading/data/checks/reports/ml_metrics_SOLUSDT.csv",
+  "model": "/Users/sultan/Trading/data/ml/models/lr_SOLUSDT.joblib",
+  "preds_csv": "/Users/sultan/Trading/data/ml/preds/SOLUSDT_preds.csv"
+}
+{
+  "trained": "TRXUSDT",
+  "metrics_csv": "/Users/sultan/Trading/data/checks/reports/ml_metrics_TRXUSDT.csv",
+  "model": "/Users/sultan/Trading/data/ml/models/lr_TRXUSDT.joblib",
+  "preds_csv": "/Users/sultan/Trading/data/ml/preds/TRXUSDT_preds.csv"
+}
+{
+  "trained": "DOTUSDT",
+  "metrics_csv": "/Users/sultan/Trading/data/checks/reports/ml_metrics_DOTUSDT.csv",
+  "model": "/Users/sultan/Trading/data/ml/models/lr_DOTUSDT.joblib",
+  "preds_csv": "/Users/sultan/Trading/data/ml/preds/DOTUSDT_preds.csv"
+}
+{
+  "trained": "LTCUSDT",
+  "metrics_csv": "/Users/sultan/Trading/data/checks/reports/ml_metrics_LTCUSDT.csv",
+  "model": "/Users/sultan/Trading/data/ml/models/lr_LTCUSDT.joblib",
+  "preds_csv": "/Users/sultan/Trading/data/ml/preds/LTCUSDT_preds.csv"
+}
+{
+  "trained": "1000SHIBUSDT.P",
+  "metrics_csv": "/Users/sultan/Trading/data/checks/reports/ml_metrics_1000SHIBUSDT.P.csv",
+  "model": "/Users/sultan/Trading/data/ml/models/lr_1000SHIBUSDT.P.joblib",
+  "preds_csv": "/Users/sultan/Trading/data/ml/preds/1000SHIBUSDT.P_preds.csv"
+}
+{
+  "trained": "BCHUSDT",
+  "metrics_csv": "/Users/sultan/Trading/data/checks/reports/ml_metrics_BCHUSDT.csv",
+  "model": "/Users/sultan/Trading/data/ml/models/lr_BCHUSDT.joblib",
+  "preds_csv": "/Users/sultan/Trading/data/ml/preds/BCHUSDT_preds.csv"
+}
+{
+  "trained": "LINKUSDT",
+  "metrics_csv": "/Users/sultan/Trading/data/checks/reports/ml_metrics_LINKUSDT.csv",
+  "model": "/Users/sultan/Trading/data/ml/models/lr_LINKUSDT.joblib",
+  "preds_csv": "/Users/sultan/Trading/data/ml/preds/LINKUSDT_preds.csv"
+}
+{
+  "trained": "AVAXUSDT",
+  "metrics_csv": "/Users/sultan/Trading/data/checks/reports/ml_metrics_AVAXUSDT.csv",
+  "model": "/Users/sultan/Trading/data/ml/models/lr_AVAXUSDT.joblib",
+  "preds_csv": "/Users/sultan/Trading/data/ml/preds/AVAXUSDT_preds.csv"
+}
+{
+  "trained": "XMRUSDT.P",
+  "metrics_csv": "/Users/sultan/Trading/data/checks/reports/ml_metrics_XMRUSDT.P.csv",
+  "model": "/Users/sultan/Trading/data/ml/models/lr_XMRUSDT.P.joblib",
+  "preds_csv": "/Users/sultan/Trading/data/ml/preds/XMRUSDT.P_preds.csv"
+}
+{
+  "trained": "XLMUSDT",
+  "metrics_csv": "/Users/sultan/Trading/data/checks/reports/ml_metrics_XLMUSDT.csv",
+  "model": "/Users/sultan/Trading/data/ml/models/lr_XLMUSDT.joblib",
+  "preds_csv": "/Users/sultan/Trading/data/ml/preds/XLMUSDT_preds.csv"
+}
+{
+  "trained": "UNIUSDT",
+  "metrics_csv": "/Users/sultan/Trading/data/checks/reports/ml_metrics_UNIUSDT.csv",
+  "model": "/Users/sultan/Trading/data/ml/models/lr_UNIUSDT.joblib",
+  "preds_csv": "/Users/sultan/Trading/data/ml/preds/UNIUSDT_preds.csv"
+}
+{
+  "trained": "ETCUSDT",
+  "metrics_csv": "/Users/sultan/Trading/data/checks/reports/ml_metrics_ETCUSDT.csv",
+  "model": "/Users/sultan/Trading/data/ml/models/lr_ETCUSDT.joblib",
+  "preds_csv": "/Users/sultan/Trading/data/ml/preds/ETCUSDT_preds.csv"
+}
+{
+  "trained": "HBARUSDT",
+  "metrics_csv": "/Users/sultan/Trading/data/checks/reports/ml_metrics_HBARUSDT.csv",
+  "model": "/Users/sultan/Trading/data/ml/models/lr_HBARUSDT.joblib",
+  "preds_csv": "/Users/sultan/Trading/data/ml/preds/HBARUSDT_preds.csv"
+}
+/Users/sultan/Trading/data/checks/reports/ml_metrics_all.csv
++ [run_daily_job.sh:12] python tools/ml/export_signals_from_preds.py
+/Users/sultan/Trading/data/ml/signals/signals_2025-10-18.csv
++ [run_daily_job.sh:13] python tools/ml/make_trade_plan.py --today
+/Users/sultan/Trading/data/ml/trade_plan/plan_2025-10-18.csv
+++ [run_daily_job.sh:15] date -u +%F
++ [run_daily_job.sh:15] PLAN=/Users/sultan/Trading/data/ml/trade_plan/plan_2025-10-18.csv
++ [run_daily_job.sh:16] '[' '!' -f /Users/sultan/Trading/data/ml/trade_plan/plan_2025-10-18.csv ']'
++ [run_daily_job.sh:21] python tools/live/paper_trade.py
+Paper trade OK (2025-10-18)
+Fills: 14  |  Positions: 14  |  equity_mark: 10000.00  |  fees: 20.0000
+Plan: /Users/sultan/Trading/data/ml/trade_plan/plan_2025-10-18.csv
++ [run_daily_job.sh:22] python tools/live/mark_positions_daily.py
+Mark-to-market OK (2025-10-18) | positions=14 | equity_mark=20000.00
++ [run_daily_job.sh:24] /Users/sultan/Trading/algo-trading/tools/live/health_check.sh
+=== HEALTH CHECK 2025-10-18 15:25:51Z ===
+HEALTH OK positions=14 equity~20000.000000000004
++ [run_daily_job.sh:25] /Users/sultan/Trading/algo-trading/tools/live/make_live_report.sh
+/Users/sultan/Trading/data/checks/reports/live_2025-10-18.md
++ [run_daily_job.sh:28] /Users/sultan/Trading/algo-trading/tools/live/health_check.sh
+=== HEALTH CHECK 2025-10-18 15:25:51Z ===
+HEALTH OK positions=14 equity~20000.000000000004
++ [run_daily_job.sh:29] hc_status=0
++ [run_daily_job.sh:30] '[' 0 -ne 0 ']'
++ [run_daily_job.sh:36] /Users/sultan/Trading/algo-trading/tools/live/make_live_report.sh
+/Users/sultan/Trading/data/checks/reports/live_2025-10-18.md
++ [run_daily_job.sh:40] '[' -f /Users/sultan/Trading/algo-trading/config/testnet.env ']'
++ [run_daily_job.sh:41] set -o allexport
++ [run_daily_job.sh:42] . /Users/sultan/Trading/algo-trading/config/testnet.env
+++ [testnet.env:1] BINANCE_API_KEY=
+++ [testnet.env:2] BINANCE_API_SECRET=
+++ [testnet.env:3] ENABLE_TESTNET=0
++ [run_daily_job.sh:43] set +o allexport
++ [run_daily_job.sh:44] '[' 0 = 1 ']'
++ [run_daily_job.sh:48] echo '[TESTNET] DRY-RUN (no se envían órdenes).'
+[TESTNET] DRY-RUN (no se envían órdenes).
++ [run_daily_job.sh:49] python /Users/sultan/Trading/algo-trading/tools/live/real_trade_testnet.py
+[DRY-RUN] Trade OK (2025-10-18) Fills=14 Positions=14 equity_mark=10000.00 fees=2.0000

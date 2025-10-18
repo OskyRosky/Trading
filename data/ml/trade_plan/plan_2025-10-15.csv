@@ -1,0 +1,5 @@
+symbol,prob,prob_src,thr,side,confidence,weight_pct
+BTCUSDT,0.85,cal,0.5,BUY,0.9,0.40
+ETHUSDT,0.75,cal,0.5,BUY,0.6,0.30
+BNBUSDT,0.65,cal,0.5,BUY,0.5,0.20
+SOLUSDT,0.55,cal,0.5,BUY,0.4,0.10

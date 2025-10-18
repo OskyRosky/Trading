@@ -1,0 +1,2 @@
+symbol,n_train,n_test,acc,precision,recall,auc,split_date,features_used
+DOGEUSDT,361,400,0.5,0.5222222222222223,0.23039215686274508,0.48421868747499,2023-01-01,"['ret_pct', 'sma_7', 'sma_20', 'ema_12', 'ema_26', 'rsi_14', 'atr_14', 'adx_14', 'bb_ma_20_2', 'bb_u_20_2', 'bb_l_20_2', 'volume', 'trades', 'sma_spread_7_20', 'ema_spread_12_26']"

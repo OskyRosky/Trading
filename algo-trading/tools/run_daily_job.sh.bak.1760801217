@@ -1,0 +1,53 @@
+≈#!/usr/bin/env bash
+set -euo pipefail
+
+cd /Users/sultan/Trading/algo-trading
+source .venv/bin/activate
+
+python tools/run_daily_delta.py
+python tools/qa_report.py
+python tools/qa_consolidate.py
+python tools/run_features_all.py
+python tools/ml/train_baseline.py
+python tools/ml/export_signals_from_preds.py
+python tools/ml/make_trade_plan.py --today
+
+PLAN="/Users/sultan/Trading/data/ml/trade_plan/plan_$(date -u +%F).csv"
+if [ ! -f "$PLAN" ]; then
+  echo "SKIP: no hay plan para hoy (UTC)."
+  exit 0
+fi
+
+python tools/live/paper_trade.py
+python tools/live/mark_positions_daily.py
+
+/Users/sultan/Trading/algo-trading/tools/live/health_check.sh
+/Users/sultan/Trading/algo-trading/tools/live/make_live_report.sh
+
+# --- HEALTH GATE ---
+/Users/sultan/Trading/algo-trading/tools/live/health_check.sh
+hc_status=$?
+if [ $hc_status -ne 0 ]; then
+  echo "[HEALTH] FAIL -> abortando job diario"
+  exit 1
+fi
+
+# Genera el reporte markdown del día (incluye el resumen de salud)
+/Users/sultan/Trading/algo-trading/tools/live/make_live_report.sh
+
+# === OPCIONAL: TESTNET (4.2) ===
+# Si existe config/testnet.env, la cargo y si ENABLE_TESTNET=1 enviaré órdenes reales a Testnet.
+if [ -f "/Users/sultan/Trading/algo-trading/config/testnet.env" ]; then
+  set -o allexport
+  . /Users/sultan/Trading/algo-trading/config/testnet.env
+  set +o allexport
+  if [ "${ENABLE_TESTNET:-0}" = "1" ]; then
+    echo "[TESTNET] Enviando órdenes a Binance Futures Testnet…"
+    python /Users/sultan/Trading/algo-trading/tools/live/real_trade_testnet.py || echo "[TESTNET] error en ejecución"
+  else
+    echo "[TESTNET] DRY-RUN (no se envían órdenes)."
+    python /Users/sultan/Trading/algo-trading/tools/live/real_trade_testnet.py || echo "[TESTNET] error en dry-run"
+  fi
+else
+  echo "[TESTNET] config/testnet.env no existe. Saltando bloque Testnet."
+fi

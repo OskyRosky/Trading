@@ -1,0 +1,2 @@
+symbol,n_train,n_test,acc,precision,recall,auc,split_date,features_used
+TRXUSDT,433,400,0.4575,0.5869565217391305,0.12,0.5030095238095238,2023-01-01,"['ret_pct', 'sma_7', 'sma_20', 'ema_12', 'ema_26', 'rsi_14', 'atr_14', 'adx_14', 'bb_ma_20_2', 'bb_u_20_2', 'bb_l_20_2', 'volume', 'trades', 'sma_spread_7_20', 'ema_spread_12_26']"

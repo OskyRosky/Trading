@@ -32,7 +32,7 @@ def main():
     if not rows:
         print("No preds")
         return
-    today = dt.datetime.utcnow().strftime("%Y-%m-%d")
+    today = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d")
     out = OUT_DIR/f"signals_{today}.csv"
     pd.DataFrame(rows).to_csv(out, index=False)
     print(str(out))

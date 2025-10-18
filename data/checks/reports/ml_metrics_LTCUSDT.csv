@@ -1,0 +1,2 @@
+symbol,n_train,n_test,acc,precision,recall,auc,split_date,features_used
+LTCUSDT,436,400,0.49,0.49693251533742333,0.801980198019802,0.5170267026702671,2023-01-01,"['ret_pct', 'sma_7', 'sma_20', 'ema_12', 'ema_26', 'rsi_14', 'atr_14', 'adx_14', 'bb_ma_20_2', 'bb_u_20_2', 'bb_l_20_2', 'volume', 'trades', 'sma_spread_7_20', 'ema_spread_12_26']"

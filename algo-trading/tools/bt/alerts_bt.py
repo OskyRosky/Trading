@@ -7,7 +7,7 @@ QA_DB = Path("/Users/sultan/Trading/data/duck/qa.duckdb")
 RPT   = Path("/Users/sultan/Trading/data/checks/reports")
 RPT.mkdir(parents=True, exist_ok=True)
 
-TODAY = dt.datetime.utcnow().strftime("%Y-%m-%d")
+TODAY = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d")
 
 def load_metrics(con: duckdb.DuckDBPyConnection) -> pd.DataFrame:
     q = """

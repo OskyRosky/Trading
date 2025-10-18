@@ -86,7 +86,7 @@ def run_one(symbol: str) -> bool:
     out = pd.DataFrame([{"symbol":symbol,"asset":f"STRAT_{symbol}",**m_s},
                         {"symbol":symbol,"asset":f"HODL_{symbol}", **m_b}])
     RPT.mkdir(parents=True, exist_ok=True)
-    today = dt.datetime.utcnow().strftime("%Y-%m-%d")
+    today = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d")
     out.to_csv(RPT/f"bt_comp_{symbol}_{today}.csv", index=False)
     print(f"[OK] {symbol}")
     return True
